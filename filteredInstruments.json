@@ -1,0 +1,9362 @@
+[
+  {
+    "id": 6,
+    "name": "+МосЭнерго",
+    "code": "MSNG",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/mosenrg",
+    "child": 1
+  },
+  {
+    "id": 399716,
+    "name": "AGRO-гдр",
+    "code": "AGRO",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/gdr-ros-agro-plc-ord-shs",
+    "child": 1
+  },
+  {
+    "id": 476184,
+    "name": "ALFA -21",
+    "code": "XS0620695204",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/alfa-bond-issuance-7-75-28-04",
+    "child": 1
+  },
+  {
+    "id": 476138,
+    "name": "CBOM-21",
+    "code": "XS1510534677",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/cbom-finance-p-l-c-5-875",
+    "child": 1
+  },
+  {
+    "id": 877962,
+    "name": "CBOM-23",
+    "code": "XS1759801720",
+    "market": 2,
+    "decp": 6,
+    "url": "moex-obligacii/cbom-finance-p-l-c-5-55",
+    "child": 1
+  },
+  {
+    "id": 489354,
+    "name": "ENPL-гдр",
+    "code": "ENPL",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/gdr-enplus-group-plc-ord-shs",
+    "child": 1
+  },
+  {
+    "id": 476198,
+    "name": "EVR-22",
+    "code": "XS1405775377",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/evraz-group-s-a-31-01-22",
+    "child": 1
+  },
+  {
+    "id": 491944,
+    "name": "FIVE-гдр",
+    "code": "FIVE",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/gdr-x5-retailgroup-n-v-ord-shs",
+    "child": 1
+  },
+  {
+    "id": 181753,
+    "name": "FXAU ETF",
+    "code": "FXAU",
+    "market": 515,
+    "decp": 0,
+    "url": "moex-etf/finex-msci-australia-ucits-etf",
+    "child": 1
+  },
+  {
+    "id": 385054,
+    "name": "FXCN ETF",
+    "code": "FXCN",
+    "market": 515,
+    "decp": 0,
+    "url": "moex-etf/finex-msci-china-ucits-etf",
+    "child": 1
+  },
+  {
+    "id": 181749,
+    "name": "FXDE ETF",
+    "code": "FXDE",
+    "market": 515,
+    "decp": 1,
+    "url": "moex-etf/finex-msci-germany-ucits-etf",
+    "child": 1
+  },
+  {
+    "id": 181675,
+    "name": "FXGD ETF",
+    "code": "FXGD",
+    "market": 515,
+    "decp": 1,
+    "url": "moex-etf/finex-gold-etf-usd",
+    "child": 1
+  },
+  {
+    "id": 499200,
+    "name": "FXKZ ETF",
+    "code": "FXKZ",
+    "market": 515,
+    "decp": 2,
+    "url": "moex-etf/finex-ffin-kzt-ucits-etf",
+    "child": 1
+  },
+  {
+    "id": 388329,
+    "name": "FXMM ETF",
+    "code": "FXMM",
+    "market": 515,
+    "decp": 1,
+    "url": "moex-etf/finex-cash-equivalents-usits",
+    "child": 1
+  },
+  {
+    "id": 175671,
+    "name": "FXRB ETF",
+    "code": "FXRB",
+    "market": 515,
+    "decp": 0,
+    "url": "moex-etf/finex-rus-eurobonds-etf-rub",
+    "child": 1
+  },
+  {
+    "id": 453885,
+    "name": "FXRL ETF",
+    "code": "FXRL",
+    "market": 515,
+    "decp": 1,
+    "url": "moex-etf/finex-rts-ucits-etf-usd",
+    "child": 1
+  },
+  {
+    "id": 182346,
+    "name": "FXRU ETF",
+    "code": "FXRU",
+    "market": 515,
+    "decp": 1,
+    "url": "moex-etf/finex-rus-eurobonds-etf-usd",
+    "child": 1
+  },
+  {
+    "id": 181752,
+    "name": "FXUK ETF",
+    "code": "FXUK",
+    "market": 515,
+    "decp": 0,
+    "url": "moex-etf/finex-msci-uk-ucits-etf",
+    "child": 1
+  },
+  {
+    "id": 181754,
+    "name": "FXUS ETF",
+    "code": "FXUS",
+    "market": 515,
+    "decp": 0,
+    "url": "moex-etf/finex-msci-usa-ucits-etf",
+    "child": 1
+  },
+  {
+    "id": 476192,
+    "name": "GAZ-20",
+    "code": "XS0885733153",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gaz-capital-s-a-3-85-06-02-20",
+    "child": 1
+  },
+  {
+    "id": 476183,
+    "name": "GAZPR-19",
+    "code": "XS0424860947",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gaz-capital-s-a-9-25-23-04-19",
+    "child": 1
+  },
+  {
+    "id": 476179,
+    "name": "GAZPR-34",
+    "code": "XS0191754729",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gaz-capital-sa-8-62500-28-04-3",
+    "child": 1
+  },
+  {
+    "id": 476180,
+    "name": "GAZPR-37",
+    "code": "XS0316524130",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gaz-capital-sa-7-28800-16-08-3",
+    "child": 1
+  },
+  {
+    "id": 485415,
+    "name": "GMKN-23",
+    "code": "XS1589324075",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/mmc-finance-dac-4-1-11-04-23",
+    "child": 1
+  },
+  {
+    "id": 476195,
+    "name": "GPB-19USD",
+    "code": "XS1040726587",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gpb-eurobond-finance-plc-4-96",
+    "child": 1
+  },
+  {
+    "id": 476150,
+    "name": "GPN-22",
+    "code": "XS0830192711",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gpn-capital-s-a-4-37500-19-09",
+    "child": 1
+  },
+  {
+    "id": 476194,
+    "name": "GPN-23",
+    "code": "XS0997544860",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gpn-capital-s-a-6-00-27-11-23",
+    "child": 1
+  },
+  {
+    "id": 496312,
+    "name": "GTLK-21",
+    "code": "XS1449458915",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gtlk-europe-limited-19-07-21",
+    "child": 1
+  },
+  {
+    "id": 496313,
+    "name": "GTLK-24",
+    "code": "XS1577961516",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gtlk-europe-dac-31-5-24",
+    "child": 1
+  },
+  {
+    "id": 476197,
+    "name": "MMC-22",
+    "code": "XS1298447019",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/mmc-finance-dac-14-10-22",
+    "child": 1
+  },
+  {
+    "id": 476191,
+    "name": "Novatek-22",
+    "code": "XS0864383723",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/novatek-finance-4-422-13-12-22",
+    "child": 1
+  },
+  {
+    "id": 476139,
+    "name": "PGIL-20",
+    "code": "XS0922301717",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/polyus-gold-int-ltd-20",
+    "child": 1
+  },
+  {
+    "id": 175924,
+    "name": "Polymetal",
+    "code": "POLY",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/polymetal-international-plc",
+    "child": 1
+  },
+  {
+    "id": 175924,
+    "name": "Polymetal",
+    "code": "POLY",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/polymetal-international-plc",
+    "child": 1
+  },
+  {
+    "id": 82169,
+    "name": "RUS-20",
+    "code": "XS0504954347",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-20",
+    "child": 1
+  },
+  {
+    "id": 82495,
+    "name": "RUS-22",
+    "code": "XS0767472458",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-22",
+    "child": 1
+  },
+  {
+    "id": 181853,
+    "name": "RUS-23",
+    "code": "XS0971721450",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-23",
+    "child": 1
+  },
+  {
+    "id": 910800,
+    "name": "RUS-25 EUR",
+    "code": "RU000A0ZZVE6",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/rus-25-eur_ru000a0zzve6",
+    "child": 1
+  },
+  {
+    "id": 455348,
+    "name": "RUS-26",
+    "code": "RU000A0JWHA4",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-26",
+    "child": 1
+  },
+  {
+    "id": 483986,
+    "name": "RUS-27",
+    "code": "RU000A0JXTS9",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/rus-27",
+    "child": 1
+  },
+  {
+    "id": 19744,
+    "name": "RUS-28",
+    "code": "XS0088543193",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-28",
+    "child": 1
+  },
+  {
+    "id": 493773,
+    "name": "RUS-29",
+    "code": "RU000A0ZYYN4",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/rus-29",
+    "child": 1
+  },
+  {
+    "id": 19746,
+    "name": "RUS-30",
+    "code": "XS0114288789",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-30",
+    "child": 1
+  },
+  {
+    "id": 82496,
+    "name": "RUS-42",
+    "code": "XS0767473852",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-42",
+    "child": 1
+  },
+  {
+    "id": 181854,
+    "name": "RUS-43",
+    "code": "XS0971721963",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/rus-43",
+    "child": 1
+  },
+  {
+    "id": 483987,
+    "name": "RUS-47",
+    "code": "RU000A0JXU14",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/rus-47",
+    "child": 1
+  },
+  {
+    "id": 414279,
+    "name": "RUSAL plc",
+    "code": "RUAL",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/united-company-rusal-plc",
+    "child": 1
+  },
+  {
+    "id": 498713,
+    "name": "Raven",
+    "code": "RAVN",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/raven-property-group-limited",
+    "child": 1
+  },
+  {
+    "id": 476189,
+    "name": "RosNef-22",
+    "code": "XS0861981180",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/rosneftinternationalfinance22",
+    "child": 1
+  },
+  {
+    "id": 497675,
+    "name": "SBMX ETF",
+    "code": "SBMX",
+    "market": 515,
+    "decp": 1,
+    "url": "moex-etf/bpif-brutto-sberbank-am",
+    "child": 1
+  },
+  {
+    "id": 476132,
+    "name": "Sistema-19",
+    "code": "XS0783242877",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/sistema-international-funding",
+    "child": 1
+  },
+  {
+    "id": 476140,
+    "name": "TMK CAP-20",
+    "code": "XS0911599701",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/tmk-capital-sa-6-75-03-04-20",
+    "child": 1
+  },
+  {
+    "id": 181447,
+    "name": "Uranium 02",
+    "code": "RU000A0JRTT9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uranium-one-inc-02",
+    "child": 1
+  },
+  {
+    "id": 476135,
+    "name": "VEB FIN-25",
+    "code": "XS0559915961",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/veb-finance-limited-6-8-22-11",
+    "child": 1
+  },
+  {
+    "id": 476144,
+    "name": "VEB-20",
+    "code": "XS0524610812",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/veb-finance-limited-6-902-09-0",
+    "child": 1
+  },
+  {
+    "id": 476145,
+    "name": "VEB-22",
+    "code": "XS0800817073",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/veb-finance-plc-6-025-05-07-22",
+    "child": 1
+  },
+  {
+    "id": 910797,
+    "name": "VEB-23 EUR",
+    "code": "XS0893212398",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/veb-finance-plc-4-032-21-02-23_xs0893212398",
+    "child": 1
+  },
+  {
+    "id": 476187,
+    "name": "VTB Eur",
+    "code": "XS0810596832",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/vtb-eurasia-dac-9-5",
+    "child": 1
+  },
+  {
+    "id": 476133,
+    "name": "Veb-23",
+    "code": "XS0993162683",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/veb-finance-plc-5-942-21-11-23",
+    "child": 1
+  },
+  {
+    "id": 388383,
+    "name": "Yandex clA",
+    "code": "YNDX",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/pllc-yandex-n-v",
+    "child": 1
+  },
+  {
+    "id": 388383,
+    "name": "Yandex clA",
+    "code": "YNDX",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/pllc-yandex-n-v",
+    "child": 1
+  },
+  {
+    "id": 181750,
+    "name": "iFXIT ETF",
+    "code": "FXIT",
+    "market": 515,
+    "decp": 0,
+    "url": "moex-etf/finex-msci-usa-inform-tech-etf",
+    "child": 1
+  },
+  {
+    "id": 181610,
+    "name": "iQIWI",
+    "code": "QIWI",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/qiwi-plc",
+    "child": 1
+  },
+  {
+    "id": 74744,
+    "name": "iДонскЗР",
+    "code": "DZRD",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/dzrd-ao",
+    "child": 1
+  },
+  {
+    "id": 74745,
+    "name": "iДонскЗР п",
+    "code": "DZRDP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/dzrd-pref",
+    "child": 1
+  },
+  {
+    "id": 17137,
+    "name": "iИСКЧ ао",
+    "code": "ISKJ",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/hsci-ao",
+    "child": 1
+  },
+  {
+    "id": 81992,
+    "name": "iНПОНаука",
+    "code": "NAUK",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/npo-nauka-ao",
+    "child": 1
+  },
+  {
+    "id": 82564,
+    "name": "iРОСНАНО 4",
+    "code": "RU000A0JS6S7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosnano-4",
+    "child": 1
+  },
+  {
+    "id": 449129,
+    "name": "iРОСНАНО 6",
+    "code": "RU000A0JVVA7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosnano-6",
+    "child": 1
+  },
+  {
+    "id": 453108,
+    "name": "iРОСНАНО 7",
+    "code": "RU000A0JW1G7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosnano-7",
+    "child": 1
+  },
+  {
+    "id": 491148,
+    "name": "iСЛТ 1Р1",
+    "code": "RU000A0ZYLD2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/softline-trade-001p-1",
+    "child": 1
+  },
+  {
+    "id": 455759,
+    "name": "iУОМЗ БО-1",
+    "code": "RU000A0JWK82",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uomp-po-bo-01",
+    "child": 1
+  },
+  {
+    "id": 74584,
+    "name": "iФармсинтз",
+    "code": "LIFE",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/farmsintez-ao",
+    "child": 1
+  },
+  {
+    "id": 477023,
+    "name": "АВТОБФ БП1",
+    "code": "RU000A0JXQ51",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/avtoban-finance-b0-p01",
+    "child": 1
+  },
+  {
+    "id": 875186,
+    "name": "АВТОБФ БП2",
+    "code": "RU000A100733",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/avtoban-finance-b0-p02",
+    "child": 1
+  },
+  {
+    "id": 66891,
+    "name": "АИЖК-10 А2",
+    "code": "RU000A0JQY35",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ipotech-agent-aizhk-2010-01-a2",
+    "child": 1
+  },
+  {
+    "id": 388343,
+    "name": "АИЖК2014А3",
+    "code": "RU000A0JUJ87",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ia-aizhk-2014-1-a3",
+    "child": 1
+  },
+  {
+    "id": 81820,
+    "name": "АЛРОСА ао",
+    "code": "ALRS",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/alrosa-ao",
+    "child": 1
+  },
+  {
+    "id": 81820,
+    "name": "АЛРОСА ао",
+    "code": "ALRS",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/alrosa-ao",
+    "child": 1
+  },
+  {
+    "id": 81882,
+    "name": "АЛРОСА-Нюр",
+    "code": "ALNU",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/alrosa-nurba-ao",
+    "child": 1
+  },
+  {
+    "id": 492813,
+    "name": "АЛЬФА БО39",
+    "code": "RU000A0ZYWB3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-39",
+    "child": 1
+  },
+  {
+    "id": 492351,
+    "name": "АЛЬФА БО40",
+    "code": "RU000A0ZYU21",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-40",
+    "child": 1
+  },
+  {
+    "id": 499760,
+    "name": "АЛЬФА-Б2Р2",
+    "code": "RU000A0ZZRB0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-002p-02",
+    "child": 1
+  },
+  {
+    "id": 502499,
+    "name": "АЛЬФА-Б2Р3",
+    "code": "RU000A0ZZZ66",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-002p-03",
+    "child": 1
+  },
+  {
+    "id": 494595,
+    "name": "АПРИФП БО1",
+    "code": "RU000A0ZZ2V1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/apri-fly-planning-bo-01",
+    "child": 1
+  },
+  {
+    "id": 578710,
+    "name": "АПРИФП БП1",
+    "code": "RU000A1003E6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/apri-fly-planning-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 484229,
+    "name": "АСКО ао",
+    "code": "ACKO",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/sk-yuzhural-asko-ao",
+    "child": 1
+  },
+  {
+    "id": 82460,
+    "name": "АбрауДюрсо",
+    "code": "ABRD",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/abrau-durso-ao",
+    "child": 1
+  },
+  {
+    "id": 82843,
+    "name": "Авангрд-ао",
+    "code": "AVAN",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/avangard",
+    "child": 1
+  },
+  {
+    "id": 467,
+    "name": "Авангрд-ао",
+    "code": "RU14AVAN8010",
+    "market": 16,
+    "decp": 2,
+    "url": "mmvb-arhiv/avangard",
+    "child": 1
+  },
+  {
+    "id": 466700,
+    "name": "Автодор1P1",
+    "code": "RU000A0JX009",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/autodor-001p-01",
+    "child": 1
+  },
+  {
+    "id": 490867,
+    "name": "Автодор1P2",
+    "code": "RU000A0ZYKM5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/autodor-001p-02",
+    "child": 1
+  },
+  {
+    "id": 499229,
+    "name": "Автодор1Р3",
+    "code": "RU000A0ZZPY6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/russian-highways-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 517656,
+    "name": "Автодор2Р2",
+    "code": "RU000A100048",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/russian-highways-bo-002p-02",
+    "child": 1
+  },
+  {
+    "id": 152658,
+    "name": "АгроКомБО1",
+    "code": "RU000A0JTEM2",
+    "market": 12,
+    "decp": 2,
+    "url": "moex-obligacii/agrokompleks-bo-01",
+    "child": 1
+  },
+  {
+    "id": 82924,
+    "name": "АгроКомп01",
+    "code": "RU000A0JSL87",
+    "market": 12,
+    "decp": 2,
+    "url": "moex-obligacii/agrokompleks-01",
+    "child": 1
+  },
+  {
+    "id": 66930,
+    "name": "Акрон",
+    "code": "AKRN",
+    "market": 8,
+    "decp": 5,
+    "url": "raspiski/akrn",
+    "child": 1
+  },
+  {
+    "id": 17564,
+    "name": "Акрон",
+    "code": "AKRN",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/akron",
+    "child": 1
+  },
+  {
+    "id": 17564,
+    "name": "Акрон",
+    "code": "AKRN",
+    "market": 200,
+    "decp": 0,
+    "url": "moex-akcii/akron",
+    "child": 1
+  },
+  {
+    "id": 81107,
+    "name": "Акрон 04",
+    "code": "RU000A0JRHF3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/akron-04",
+    "child": 1
+  },
+  {
+    "id": 81108,
+    "name": "Акрон 05",
+    "code": "RU000A0JRHG1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/akron-05",
+    "child": 1
+  },
+  {
+    "id": 461926,
+    "name": "Акрон Б1P1",
+    "code": "RU000A0JWV89",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/acron-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 481252,
+    "name": "Акрон Б1P2",
+    "code": "RU000A0JXSS1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/acron-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 497030,
+    "name": "Альфа-Б2Р1",
+    "code": "RU000A0ZZEW4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-002p-01",
+    "child": 1
+  },
+  {
+    "id": 454495,
+    "name": "АльфаБО-12",
+    "code": "RU000A0JWCL2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-12",
+    "child": 1
+  },
+  {
+    "id": 398111,
+    "name": "АльфаБО-13",
+    "code": "RU000A0JUU90",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-13",
+    "child": 1
+  },
+  {
+    "id": 398112,
+    "name": "АльфаБО-14",
+    "code": "RU000A0JUUA1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-14",
+    "child": 1
+  },
+  {
+    "id": 399758,
+    "name": "АльфаБО-15",
+    "code": "RU000A0JV0U1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-15",
+    "child": 1
+  },
+  {
+    "id": 461055,
+    "name": "АльфаБО-17",
+    "code": "RU000A0JWUX9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-17",
+    "child": 1
+  },
+  {
+    "id": 472486,
+    "name": "АльфаБО-18",
+    "code": "RU000A0JX5W4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-18",
+    "child": 1
+  },
+  {
+    "id": 478940,
+    "name": "АльфаБО-20",
+    "code": "RU000A0JXRV7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-20",
+    "child": 1
+  },
+  {
+    "id": 488492,
+    "name": "АльфаБО-21",
+    "code": "RU000A0ZYBM4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-21",
+    "child": 1
+  },
+  {
+    "id": 490072,
+    "name": "АльфаБО-22",
+    "code": "RU000A0ZYGB6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/alfa-bank-bo-22",
+    "child": 1
+  },
+  {
+    "id": 13855,
+    "name": "Аптеки36и6",
+    "code": "APTK",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/apteki-36-6",
+    "child": 1
+  },
+  {
+    "id": 19676,
+    "name": "Армада",
+    "code": "ARMD",
+    "market": 16,
+    "decp": 3,
+    "url": "moex-akcii/armada",
+    "child": 1
+  },
+  {
+    "id": 16452,
+    "name": "АстрЭнСб",
+    "code": "ASSB",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/astrakhan-energo-sbyt",
+    "child": 1
+  },
+  {
+    "id": 388541,
+    "name": "АшинМЗ БО1",
+    "code": "RU000A0JUQC5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ashinckiy-metzavod-oao-bo-01",
+    "child": 1
+  },
+  {
+    "id": 20702,
+    "name": "АшинскийМЗ",
+    "code": "AMEZ",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/ashinckiy-metzavod-oao",
+    "child": 1
+  },
+  {
+    "id": 29,
+    "name": "Аэрофлот",
+    "code": "AFLT",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/aeroflot",
+    "child": 1
+  },
+  {
+    "id": 29,
+    "name": "Аэрофлот",
+    "code": "AFLT",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/aeroflot",
+    "child": 1
+  },
+  {
+    "id": 491981,
+    "name": "БСК 1P1",
+    "code": "RU000A0ZYR18",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bashkir-soda-company-01p-01",
+    "child": 1
+  },
+  {
+    "id": 20066,
+    "name": "БСП ао",
+    "code": "BSPB",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/bsp",
+    "child": 1
+  },
+  {
+    "id": 20066,
+    "name": "БСП ао",
+    "code": "BSPB",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/bsp",
+    "child": 1
+  },
+  {
+    "id": 462599,
+    "name": "БУДУЩЕЕ ао",
+    "code": "FTRE",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/fg-future-ao",
+    "child": 1
+  },
+  {
+    "id": 592871,
+    "name": "БЭЛТИ БОП1",
+    "code": "RU000A100535",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/balti-grand-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 481445,
+    "name": "БалтЛизБП1",
+    "code": "RU000A0JXT17",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/baltic-leasing-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 35243,
+    "name": "БашИнСв ап",
+    "code": "BISVP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/bashinformsvyaz-ap",
+    "child": 1
+  },
+  {
+    "id": 181532,
+    "name": "Башкорт8об",
+    "code": "RU000A0JU674",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bashkortostan-8",
+    "child": 1
+  },
+  {
+    "id": 398339,
+    "name": "Башкорт9об",
+    "code": "RU000A0JUWT7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bashkortostan-9",
+    "child": 1
+  },
+  {
+    "id": 81757,
+    "name": "Башнефт ао",
+    "code": "BANE",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/bashneft-ank-ao",
+    "child": 1
+  },
+  {
+    "id": 81757,
+    "name": "Башнефт ао",
+    "code": "BANE",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/bashneft-ank-ao",
+    "child": 1
+  },
+  {
+    "id": 81758,
+    "name": "Башнефт ап",
+    "code": "BANEP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/bashneft-ank-ap",
+    "child": 1
+  },
+  {
+    "id": 81758,
+    "name": "Башнефт ап",
+    "code": "BANEP",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/bashneft-ank-ap",
+    "child": 1
+  },
+  {
+    "id": 152898,
+    "name": "Башнефть06",
+    "code": "RU000A0JTM28",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bashneft-ank-06",
+    "child": 1
+  },
+  {
+    "id": 152899,
+    "name": "Башнефть07",
+    "code": "RU000A0JTM36",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bashneft-ank-07",
+    "child": 1
+  },
+  {
+    "id": 152901,
+    "name": "Башнефть09",
+    "code": "RU000A0JTM51",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bashneft-ank-09",
+    "child": 1
+  },
+  {
+    "id": 181304,
+    "name": "БелгОб2013",
+    "code": "RU000A0JU286",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/belgorodskaya-obl-2013",
+    "child": 1
+  },
+  {
+    "id": 388540,
+    "name": "БелгОб2014",
+    "code": "RU000A0JUQB7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/belgorodskaya-obl-2014",
+    "child": 1
+  },
+  {
+    "id": 420824,
+    "name": "БелгОб2015",
+    "code": "RU000A0JVL33",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/belgorodskaya-obl-2015",
+    "child": 1
+  },
+  {
+    "id": 483746,
+    "name": "БелгОб2017",
+    "code": "RU000A0JXTW1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/belgorodskaya-obl-2017",
+    "child": 1
+  },
+  {
+    "id": 21078,
+    "name": "Белон ао",
+    "code": "BLNG",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/belon-ao",
+    "child": 1
+  },
+  {
+    "id": 19651,
+    "name": "Белуга ао",
+    "code": "BELU",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/synergy-ao",
+    "child": 1
+  },
+  {
+    "id": 482330,
+    "name": "БелугаБП1",
+    "code": "RU000A0JXTB5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/synergy-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 81901,
+    "name": "БурЗолото",
+    "code": "BRZL",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/buryatzoloto-ao",
+    "child": 1
+  },
+  {
+    "id": 874152,
+    "name": "ВБРР 1P-03",
+    "code": "RU000A100691",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-rrdb-1p-03",
+    "child": 1
+  },
+  {
+    "id": 488678,
+    "name": "ВБРР Б1P1",
+    "code": "RU000A0ZYCJ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vbrr-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 491979,
+    "name": "ВБРР Б1P2",
+    "code": "RU000A0ZYQX9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vbrr-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 15965,
+    "name": "ВСМПО-АВСМ",
+    "code": "VSMO",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/verhnesald-mpo",
+    "child": 1
+  },
+  {
+    "id": 15965,
+    "name": "ВСМПО-АВСМ",
+    "code": "VSMO",
+    "market": 200,
+    "decp": 0,
+    "url": "moex-akcii/verhnesald-mpo",
+    "child": 1
+  },
+  {
+    "id": 502462,
+    "name": "ВТБ Б-1-10",
+    "code": "RU000A0ZZYR2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-b-1-10",
+    "child": 1
+  },
+  {
+    "id": 875188,
+    "name": "ВТБ Б-1-27",
+    "code": "RU000A100774",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-b-1-27",
+    "child": 1
+  },
+  {
+    "id": 502515,
+    "name": "ВТБ Б-1-3",
+    "code": "RU000A0ZYKG7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-b-1-3",
+    "child": 1
+  },
+  {
+    "id": 495311,
+    "name": "ВТБ Б-1-5",
+    "code": "RU000A0ZZ6Q2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-b-1-5",
+    "child": 1
+  },
+  {
+    "id": 496413,
+    "name": "ВТБ Б-1-6",
+    "code": "RU000A0ZZBD0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-b-1-6",
+    "child": 1
+  },
+  {
+    "id": 497238,
+    "name": "ВТБ Б-1-8",
+    "code": "RU000A0ZZH84",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-b-1-8",
+    "child": 1
+  },
+  {
+    "id": 388567,
+    "name": "ВТБ БО-26",
+    "code": "RU000A0JUQE1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-bo-26",
+    "child": 1
+  },
+  {
+    "id": 407489,
+    "name": "ВТБ БО-30",
+    "code": "RU000A0JV3Q3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-bo-30",
+    "child": 1
+  },
+  {
+    "id": 181651,
+    "name": "ВТБ БО-43",
+    "code": "RU000A0JU773",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-vtb-bo-43",
+    "child": 1
+  },
+  {
+    "id": 19043,
+    "name": "ВТБ ао",
+    "code": "VTBR",
+    "market": 1,
+    "decp": 6,
+    "url": "moex-akcii/vtb",
+    "child": 1
+  },
+  {
+    "id": 19043,
+    "name": "ВТБ ао",
+    "code": "VTBR",
+    "market": 200,
+    "decp": 6,
+    "url": "moex-akcii/vtb",
+    "child": 1
+  },
+  {
+    "id": 453596,
+    "name": "ВТОРРЕС Б1",
+    "code": "RU000A0JW3R0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vtorresource-bo-01",
+    "child": 1
+  },
+  {
+    "id": 17257,
+    "name": "ВХЗ-ао",
+    "code": "VLHZ",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/vhz",
+    "child": 1
+  },
+  {
+    "id": 491158,
+    "name": "ВЦЗ 1P1R",
+    "code": "RU000A0ZYLK7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/verhnebak-cement-zavod-1p-1r",
+    "child": 1
+  },
+  {
+    "id": 505366,
+    "name": "ВЭБ 1P-12",
+    "code": "RU000A0ZZZP3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-rf-pbo-001p-12",
+    "child": 1
+  },
+  {
+    "id": 454910,
+    "name": "ВЭБ ПБО1Р2",
+    "code": "RU000A0JWG96",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-pbo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 457154,
+    "name": "ВЭБ ПБО1Р3",
+    "code": "RU000A0JWNE4",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/vneshekonombankpbo-001p-03-usd",
+    "child": 1
+  },
+  {
+    "id": 457202,
+    "name": "ВЭБ ПБО1Р4",
+    "code": "RU000A0JWNJ3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-pbo-001p-04",
+    "child": 1
+  },
+  {
+    "id": 472057,
+    "name": "ВЭБ ПБО1Р5",
+    "code": "RU000A0JX4Q9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-pbo-001p-05",
+    "child": 1
+  },
+  {
+    "id": 478837,
+    "name": "ВЭБ ПБО1Р7",
+    "code": "RU000A0JXRP9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-pbo-001p-07",
+    "child": 1
+  },
+  {
+    "id": 483829,
+    "name": "ВЭБ ПБО1Р9",
+    "code": "RU000A0JXU71",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-pbo-001p-09",
+    "child": 1
+  },
+  {
+    "id": 74581,
+    "name": "ВЭБ.РФ 06",
+    "code": "RU000A0JR3H8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-06",
+    "child": 1
+  },
+  {
+    "id": 74580,
+    "name": "ВЭБ.РФ 08",
+    "code": "RU000A0JR3G0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-08",
+    "child": 1
+  },
+  {
+    "id": 80829,
+    "name": "ВЭБ.РФ 09",
+    "code": "RU000A0JRCX7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-09",
+    "child": 1
+  },
+  {
+    "id": 152395,
+    "name": "ВЭБ.РФ 18",
+    "code": "RU000A0JT403",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-18",
+    "child": 1
+  },
+  {
+    "id": 152396,
+    "name": "ВЭБ.РФ 19",
+    "code": "RU000A0JT6B2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-19",
+    "child": 1
+  },
+  {
+    "id": 82452,
+    "name": "ВЭБ.РФ 21",
+    "code": "RU000A0JS4Z7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-21",
+    "child": 1
+  },
+  {
+    "id": 436303,
+    "name": "ВЭБ.РФ Б05",
+    "code": "RU000A0JVQA7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-bo-05",
+    "child": 1
+  },
+  {
+    "id": 548511,
+    "name": "ВЭБ1P-K118",
+    "code": "RU000A0ZZVZ1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-rf-1p-k118",
+    "child": 1
+  },
+  {
+    "id": 578761,
+    "name": "ВЭБ1P-K126",
+    "code": "RU000A0JY5K8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-rf-1p-k126",
+    "child": 1
+  },
+  {
+    "id": 581887,
+    "name": "ВЭБ1P-K127",
+    "code": "RU000A0JY5L6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-rf-1p-k127",
+    "child": 1
+  },
+  {
+    "id": 592960,
+    "name": "ВЭБ1P-K129",
+    "code": "RU000A0JY5N2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-rf-1p-k129",
+    "child": 1
+  },
+  {
+    "id": 874151,
+    "name": "ВЭБ1P-K132",
+    "code": "RU000A0JY5R3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-rf-1p-k132",
+    "child": 1
+  },
+  {
+    "id": 876232,
+    "name": "ВЭБ1P-K134",
+    "code": "RU000A0JY5T9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-rf-1p-k134",
+    "child": 1
+  },
+  {
+    "id": 491151,
+    "name": "ВЭБПБО1Р10",
+    "code": "RU000A0ZYLH3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vneshekonombank-pbo-001p-10",
+    "child": 1
+  },
+  {
+    "id": 409188,
+    "name": "ВЭБлизБ04",
+    "code": "RU000A0JV8D0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-leasing-oao-bo-04",
+    "child": 1
+  },
+  {
+    "id": 409215,
+    "name": "ВЭБлизБ05",
+    "code": "RU000A0JV8G3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/veb-leasing-oao-bo-05",
+    "child": 1
+  },
+  {
+    "id": 16352,
+    "name": "ВЭК 01 ао",
+    "code": "VDSB",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/vek-ao",
+    "child": 1
+  },
+  {
+    "id": 81954,
+    "name": "Варьеган",
+    "code": "VJGZ",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/var-eganneftegaz-ao",
+    "child": 1
+  },
+  {
+    "id": 81955,
+    "name": "Варьеган-п",
+    "code": "VJGZP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/var-eganneftegaz-ap",
+    "child": 1
+  },
+  {
+    "id": 388493,
+    "name": "ВлгОб35005",
+    "code": "RU000A0JUP89",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volgograd-reg-35005",
+    "child": 1
+  },
+  {
+    "id": 436934,
+    "name": "ВлгОб35006",
+    "code": "RU000A0JVU65",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volgograd-reg-35006",
+    "child": 1
+  },
+  {
+    "id": 481159,
+    "name": "ВлгОб35007",
+    "code": "RU000A0JXSD3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volgograd-reg-35007",
+    "child": 1
+  },
+  {
+    "id": 17068,
+    "name": "Возрожд-ао",
+    "code": "VZRZ",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/vozrojdenie",
+    "child": 1
+  },
+  {
+    "id": 17067,
+    "name": "Возрожд-п",
+    "code": "VZRZP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/vozrojdenie-pref",
+    "child": 1
+  },
+  {
+    "id": 484111,
+    "name": "ВолгКапПБ1",
+    "code": "RU000A0JXUU3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volga-capital-pbo-01",
+    "child": 1
+  },
+  {
+    "id": 16456,
+    "name": "ВолгЭнСб",
+    "code": "VGSB",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/volgograd-energo-sbyt",
+    "child": 1
+  },
+  {
+    "id": 16457,
+    "name": "ВолгЭнСб-п",
+    "code": "VGSBP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/volgograd-energo-sbyt-pref",
+    "child": 1
+  },
+  {
+    "id": 398340,
+    "name": "Волгогр 07",
+    "code": "RU000A0JUWU5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volgograd-34007",
+    "child": 1
+  },
+  {
+    "id": 449167,
+    "name": "Волгогр 08",
+    "code": "RU000A0JVVR1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volgograd-34008",
+    "child": 1
+  },
+  {
+    "id": 407451,
+    "name": "Волжск2014",
+    "code": "RU000A0JV3M2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volzhsky-2014",
+    "child": 1
+  },
+  {
+    "id": 398322,
+    "name": "ВоронежОб7",
+    "code": "RU000A0JUWK6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/voronezh-reg-07",
+    "child": 1
+  },
+  {
+    "id": 502393,
+    "name": "ВсИнстрБО1",
+    "code": "RU000A0ZZXT0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vseinstrumenti-ru-llc-bo-01",
+    "child": 1
+  },
+  {
+    "id": 83251,
+    "name": "ВыбСудЗ ао",
+    "code": "VSYD",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/viborgskii-sudostr-zavod-ao",
+    "child": 1
+  },
+  {
+    "id": 83252,
+    "name": "ВыбСудЗ ап",
+    "code": "VSYDP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/viborgskii-sudostr-zavod-ap",
+    "child": 1
+  },
+  {
+    "id": 449066,
+    "name": "ВымпелКБО3",
+    "code": "RU000A0JVUP7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vimpelkom-bo-03",
+    "child": 1
+  },
+  {
+    "id": 82604,
+    "name": "ВымпелКом1",
+    "code": "RU000A0JS5E9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vimpelkom01",
+    "child": 1
+  },
+  {
+    "id": 82605,
+    "name": "ВымпелКом4",
+    "code": "RU000A0JS5F6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/vimpelkom04",
+    "child": 1
+  },
+  {
+    "id": 81997,
+    "name": "ГАЗ ао",
+    "code": "GAZA",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/gaz-ao",
+    "child": 1
+  },
+  {
+    "id": 81998,
+    "name": "ГАЗ ап",
+    "code": "GAZAP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/gaz-pref",
+    "child": 1
+  },
+  {
+    "id": 16842,
+    "name": "ГАЗПРОМ ао",
+    "code": "GAZP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/gazprom",
+    "child": 1
+  },
+  {
+    "id": 16842,
+    "name": "ГАЗПРОМ ао",
+    "code": "GAZP",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/gazprom",
+    "child": 1
+  },
+  {
+    "id": 449114,
+    "name": "ГИТ ао",
+    "code": "GRNT",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/cityinnovativetechnologies-ao",
+    "child": 1
+  },
+  {
+    "id": 795,
+    "name": "ГМКНорНик",
+    "code": "GMKN",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/nornickel-gmk",
+    "child": 1
+  },
+  {
+    "id": 795,
+    "name": "ГМКНорНик",
+    "code": "GMKN",
+    "market": 200,
+    "decp": 0,
+    "url": "moex-akcii/nornickel-gmk",
+    "child": 1
+  },
+  {
+    "id": 944,
+    "name": "ГМКНорНик",
+    "code": "NKEL",
+    "market": 8,
+    "decp": 5,
+    "url": "raspiski/norilsk-nikel",
+    "child": 1
+  },
+  {
+    "id": 152567,
+    "name": "ГПБ 11",
+    "code": "RU000A0JT6G1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-11",
+    "child": 1
+  },
+  {
+    "id": 573242,
+    "name": "ГПБ 1P-05P",
+    "code": "RU000A1002E8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-gpb-jsc-001p-05p",
+    "child": 1
+  },
+  {
+    "id": 578753,
+    "name": "ГПБ 1P-06P",
+    "code": "RU000A1003R8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-001p-06p",
+    "child": 1
+  },
+  {
+    "id": 875192,
+    "name": "ГПБ 1P-07P",
+    "code": "RU000A1007E7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-001p-07p",
+    "child": 1
+  },
+  {
+    "id": 453838,
+    "name": "ГПБ 2-ИП",
+    "code": "RU000A0JW5K0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-2-ip",
+    "child": 1
+  },
+  {
+    "id": 181692,
+    "name": "ГПБ БО-07",
+    "code": "RU000A0JU7Y9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-07",
+    "child": 1
+  },
+  {
+    "id": 388347,
+    "name": "ГПБ БО-08",
+    "code": "RU000A0JUMH3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-08",
+    "child": 1
+  },
+  {
+    "id": 467236,
+    "name": "ГПБ БО-12",
+    "code": "RU000A0JX0P9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gpb-bo-12",
+    "child": 1
+  },
+  {
+    "id": 483514,
+    "name": "ГПБ БО-13",
+    "code": "RU000A0JXTF6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gpb-bo-13",
+    "child": 1
+  },
+  {
+    "id": 487657,
+    "name": "ГПБ БО-14",
+    "code": "RU000A0ZYAE3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gpb-bo-14",
+    "child": 1
+  },
+  {
+    "id": 490278,
+    "name": "ГПБ БО-15",
+    "code": "RU000A0ZYHK5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gpb-bo-15",
+    "child": 1
+  },
+  {
+    "id": 476130,
+    "name": "ГПБ БО-16",
+    "code": "RU000A0JXP45",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-16",
+    "child": 1
+  },
+  {
+    "id": 489207,
+    "name": "ГПБ БО-17",
+    "code": "RU000A0ZYEE5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-17",
+    "child": 1
+  },
+  {
+    "id": 492098,
+    "name": "ГПБ БО-18",
+    "code": "RU000A0ZYRX7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-18",
+    "child": 1
+  },
+  {
+    "id": 492099,
+    "name": "ГПБ БО-19",
+    "code": "RU000A0ZYRY5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-19",
+    "child": 1
+  },
+  {
+    "id": 454202,
+    "name": "ГПБ БО-21",
+    "code": "RU000A0JW9R7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-21",
+    "child": 1
+  },
+  {
+    "id": 454652,
+    "name": "ГПБ БО-22",
+    "code": "RU000A0JWE56",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-22",
+    "child": 1
+  },
+  {
+    "id": 473919,
+    "name": "ГПБ БО-23",
+    "code": "RU000A0JXHQ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-23",
+    "child": 1
+  },
+  {
+    "id": 487716,
+    "name": "ГПБ БО-24",
+    "code": "RU000A0ZYB73",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-24",
+    "child": 1
+  },
+  {
+    "id": 491228,
+    "name": "ГПБ БО-25",
+    "code": "RU000A0ZYM05",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-25",
+    "child": 1
+  },
+  {
+    "id": 502391,
+    "name": "ГПБ001P03P",
+    "code": "RU000A0ZZXM5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-001p-03p",
+    "child": 1
+  },
+  {
+    "id": 499761,
+    "name": "ГПБ002P-02",
+    "code": "RU000A0ZZRC8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-002p-02",
+    "child": 1
+  },
+  {
+    "id": 502369,
+    "name": "ГПБ002P-03",
+    "code": "RU000A0ZZXJ1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-002p-03-imoex",
+    "child": 1
+  },
+  {
+    "id": 573224,
+    "name": "ГПБ002P-04",
+    "code": "RU000A100253",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-002p-04",
+    "child": 1
+  },
+  {
+    "id": 573225,
+    "name": "ГПБ002P-05",
+    "code": "RU000A100261",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-002p-05",
+    "child": 1
+  },
+  {
+    "id": 590853,
+    "name": "ГПБ002P-06",
+    "code": "RU000A100543",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-002p-06",
+    "child": 1
+  },
+  {
+    "id": 590854,
+    "name": "ГПБ002P-07",
+    "code": "RU000A100550",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprombank-bo-002p-07",
+    "child": 1
+  },
+  {
+    "id": 473162,
+    "name": "ГТЛК 1P-03",
+    "code": "RU000A0JXE06",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 476686,
+    "name": "ГТЛК 1P-04",
+    "code": "RU000A0JXPG2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-bo-001p-04",
+    "child": 1
+  },
+  {
+    "id": 487228,
+    "name": "ГТЛК 1P-05",
+    "code": "RU000A0JY023",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/gtlk-bo-001p-05",
+    "child": 1
+  },
+  {
+    "id": 487663,
+    "name": "ГТЛК 1P-06",
+    "code": "RU000A0ZYAP9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-bo-001p-06",
+    "child": 1
+  },
+  {
+    "id": 491601,
+    "name": "ГТЛК 1P-07",
+    "code": "RU000A0ZYNY4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-bo-001p-07",
+    "child": 1
+  },
+  {
+    "id": 492034,
+    "name": "ГТЛК 1P-08",
+    "code": "RU000A0ZYR91",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/stlc-bo-001p-08",
+    "child": 1
+  },
+  {
+    "id": 494034,
+    "name": "ГТЛК 1P-09",
+    "code": "RU000A0ZZ1J8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/stlc-bo-001p-09",
+    "child": 1
+  },
+  {
+    "id": 495754,
+    "name": "ГТЛК 1P-10",
+    "code": "RU000A0ZZ984",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/stlc-bo-001p-10",
+    "child": 1
+  },
+  {
+    "id": 496348,
+    "name": "ГТЛК 1P-11",
+    "code": "RU000A0ZZAL5",
+    "market": 12,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/stlc-bo-001p-11",
+    "child": 1
+  },
+  {
+    "id": 501594,
+    "name": "ГТЛК 1P-12",
+    "code": "RU000A0ZZV11",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/stlc-bo-001p-12",
+    "child": 1
+  },
+  {
+    "id": 578666,
+    "name": "ГТЛК 1P-13",
+    "code": "RU000A1003A4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/stlc-bo-001p-13",
+    "child": 1
+  },
+  {
+    "id": 410579,
+    "name": "ГТЛК БО-04",
+    "code": "RU000A0JVA10",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-pao-bo-04",
+    "child": 1
+  },
+  {
+    "id": 450158,
+    "name": "ГТЛК БО-05",
+    "code": "RU000A0JVWD9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-pao-bo-05",
+    "child": 1
+  },
+  {
+    "id": 450229,
+    "name": "ГТЛК БО-06",
+    "code": "RU000A0JVWJ6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-pao-bo-06",
+    "child": 1
+  },
+  {
+    "id": 453133,
+    "name": "ГТЛК БО-07",
+    "code": "RU000A0JW1P8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-pao-bo-07",
+    "child": 1
+  },
+  {
+    "id": 459840,
+    "name": "ГТЛК БО-08",
+    "code": "RU000A0JWST1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gtlk-pao-bo-08",
+    "child": 1
+  },
+  {
+    "id": 476003,
+    "name": "Газпнф1P1R",
+    "code": "RU000A0JXNF9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-001p-1r",
+    "child": 1
+  },
+  {
+    "id": 488917,
+    "name": "Газпнф1P3R",
+    "code": "RU000A0ZYDS7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-001p-03r",
+    "child": 1
+  },
+  {
+    "id": 491147,
+    "name": "Газпнф1P4R",
+    "code": "RU000A0ZYLC4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-001p-04r",
+    "child": 1
+  },
+  {
+    "id": 493488,
+    "name": "Газпнф1P6R",
+    "code": "RU000A0ZYXV9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-001p-06r",
+    "child": 1
+  },
+  {
+    "id": 80358,
+    "name": "Газпрнеф10",
+    "code": "RU000A0JR878",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-10",
+    "child": 1
+  },
+  {
+    "id": 459233,
+    "name": "ГазпрнефБ1",
+    "code": "RU000A0JWRE5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-bo-1",
+    "child": 1
+  },
+  {
+    "id": 455362,
+    "name": "ГазпрнефБ3",
+    "code": "RU000A0JWK41",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-bo-3",
+    "child": 1
+  },
+  {
+    "id": 459234,
+    "name": "ГазпрнефБ4",
+    "code": "RU000A0JWRF2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-bo-4",
+    "child": 1
+  },
+  {
+    "id": 21316,
+    "name": "Газпрнефт4",
+    "code": "RU000A0JQ557",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-neft-04",
+    "child": 1
+  },
+  {
+    "id": 2,
+    "name": "Газпрнефть",
+    "code": "SIBN",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/gazprom-neft",
+    "child": 1
+  },
+  {
+    "id": 497028,
+    "name": "ГазпромБ22",
+    "code": "RU000A0ZZES2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-bo-22",
+    "child": 1
+  },
+  {
+    "id": 497029,
+    "name": "ГазпромБ23",
+    "code": "RU000A0ZZET0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-bo-23",
+    "child": 1
+  },
+  {
+    "id": 492632,
+    "name": "ГазпромКБ1",
+    "code": "RU000A0ZYUV5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-capital-llc-bo-01",
+    "child": 1
+  },
+  {
+    "id": 492633,
+    "name": "ГазпромКБ2",
+    "code": "RU000A0ZYUW3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-capital-llc-bo-02",
+    "child": 1
+  },
+  {
+    "id": 492634,
+    "name": "ГазпромКБ3",
+    "code": "RU000A0ZYUY9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-capital-llc-bo-03",
+    "child": 1
+  },
+  {
+    "id": 492635,
+    "name": "ГазпромКБ4",
+    "code": "RU000A0ZYV04",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazprom-capital-llc-bo-04",
+    "child": 1
+  },
+  {
+    "id": 473522,
+    "name": "ГазпромКБ5",
+    "code": "RU000A0JXFS8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gazpromkapital-bo-05",
+    "child": 1
+  },
+  {
+    "id": 17698,
+    "name": "Галс-Девел",
+    "code": "HALS",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/gals-development-ao",
+    "child": 1
+  },
+  {
+    "id": 874104,
+    "name": "ГарИнв1P05",
+    "code": "RU000A1005T9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/garant-invest-bo-001p-05",
+    "child": 1
+  },
+  {
+    "id": 181784,
+    "name": "ГеотекС 1",
+    "code": "RU000A0JU807",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/geotek-seismorazvedka-01",
+    "child": 1
+  },
+  {
+    "id": 493928,
+    "name": "ГрузЦ БОП1",
+    "code": "RU000A0ZZ0R3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gruzovichkof-stolitsa-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 501593,
+    "name": "ГрузЦ БОП2",
+    "code": "RU000A0ZZV03",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/gruzovichkof-stolitsa-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 20708,
+    "name": "ДВМП ао",
+    "code": "FESH",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/dvmp-ao",
+    "child": 1
+  },
+  {
+    "id": 494037,
+    "name": "ДОМ 1P-3R",
+    "code": "RU000A0ZZ1N0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/dom-rf-001p-03r",
+    "child": 1
+  },
+  {
+    "id": 495335,
+    "name": "ДОМ 1P-4R",
+    "code": "RU000A0ZZ7C0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/dom-rf-001p-04r",
+    "child": 1
+  },
+  {
+    "id": 581888,
+    "name": "ДОМ 1P-5R",
+    "code": "RU000A1004W6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/dom-rf-001p-05r",
+    "child": 1
+  },
+  {
+    "id": 471104,
+    "name": "ДОМ.РФ Б-5",
+    "code": "RU000A0JX2R1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-05",
+    "child": 1
+  },
+  {
+    "id": 489352,
+    "name": "ДОМ.РФ Б-6",
+    "code": "RU000A0ZYF20",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-06",
+    "child": 1
+  },
+  {
+    "id": 489353,
+    "name": "ДОМ.РФ Б-7",
+    "code": "RU000A0ZYF38",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-07",
+    "child": 1
+  },
+  {
+    "id": 489430,
+    "name": "ДОМ.РФ Б-8",
+    "code": "RU000A0ZYFM5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-08",
+    "child": 1
+  },
+  {
+    "id": 487673,
+    "name": "ДОМ.РФ Б-9",
+    "code": "RU000A0ZYAR5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-09",
+    "child": 1
+  },
+  {
+    "id": 489431,
+    "name": "ДОМ.РФ Б10",
+    "code": "RU000A0ZYFN3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-10",
+    "child": 1
+  },
+  {
+    "id": 80594,
+    "name": "ДОМ.РФ17об",
+    "code": "RU000A0JR5F7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-17",
+    "child": 1
+  },
+  {
+    "id": 80763,
+    "name": "ДОМ.РФ18об",
+    "code": "RU000A0JRDY3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-18",
+    "child": 1
+  },
+  {
+    "id": 491225,
+    "name": "ДОМ.РФ1P1R",
+    "code": "RU000A0ZYLU6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-001p-01r",
+    "child": 1
+  },
+  {
+    "id": 491978,
+    "name": "ДОМ.РФ1P2R",
+    "code": "RU000A0ZYQU5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-bo-001p-02r",
+    "child": 1
+  },
+  {
+    "id": 82566,
+    "name": "ДОМ.РФ21об",
+    "code": "RU000A0JS488",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-21",
+    "child": 1
+  },
+  {
+    "id": 388283,
+    "name": "ДОМ.РФ30об",
+    "code": "RU000A0JUKX4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/aizhk-30",
+    "child": 1
+  },
+  {
+    "id": 490488,
+    "name": "ДОМРФИА 2P",
+    "code": "RU000A0ZYJT2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mortgage-agent-mbs-factory-2p",
+    "child": 1
+  },
+  {
+    "id": 491229,
+    "name": "ДФФ 1Р-01",
+    "code": "RU000A0ZYM21",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/domodedovo-fuel-faclities-1p-1",
+    "child": 1
+  },
+  {
+    "id": 16825,
+    "name": "ДагСб ао",
+    "code": "DASB",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/dagestan-energosbyt-company",
+    "child": 1
+  },
+  {
+    "id": 450587,
+    "name": "ДелоПортс1",
+    "code": "RU000A0JVZB6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/deloports-01",
+    "child": 1
+  },
+  {
+    "id": 475851,
+    "name": "ДетМир Б-4",
+    "code": "RU000A0JXMZ9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/detsky-mir-bo-04",
+    "child": 1
+  },
+  {
+    "id": 473181,
+    "name": "ДетскийМир",
+    "code": "DSKY",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/detsky-mir",
+    "child": 1
+  },
+  {
+    "id": 476687,
+    "name": "ДомДенБ1Р1",
+    "code": "RU000A0JXPH0",
+    "market": 12,
+    "decp": 2,
+    "url": "moex-obligacii/domashnie-dengi-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 489117,
+    "name": "ДрктЛиз1P1",
+    "code": "RU000A0ZYE96",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/directleasing-bo-1p-1",
+    "child": 1
+  },
+  {
+    "id": 493846,
+    "name": "ДрктЛиз1P2",
+    "code": "RU000A0ZZ0D3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/directleasing-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 499759,
+    "name": "ДрктЛиз1P3",
+    "code": "RU000A0ZZR90",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/directleasing-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 496940,
+    "name": "ЕАБР 1Р-01",
+    "code": "RU000A0ZZDB0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/eurasian-develop-bank-1p-01",
+    "child": 1
+  },
+  {
+    "id": 500049,
+    "name": "ЕАБР 1Р-02",
+    "code": "RU000A0ZZRR6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/eurasian-develop-bank-1p-02",
+    "child": 1
+  },
+  {
+    "id": 874103,
+    "name": "ЕАБР 1Р-03",
+    "code": "RU000A1004X4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/eurasian-develop-bank-1p-03",
+    "child": 1
+  },
+  {
+    "id": 181685,
+    "name": "ЕАБР08",
+    "code": "RU000A0JS900",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/evraziyskiy-bank-razvitiya-08",
+    "child": 1
+  },
+  {
+    "id": 492066,
+    "name": "ЕАБР11",
+    "code": "RU000A0JS934",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/evraziyskiy-bank-razvitiya-11",
+    "child": 1
+  },
+  {
+    "id": 454565,
+    "name": "ЕврХимБ1Р1",
+    "code": "RU000A0JWDU1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/evrohim-mhk-ao-bo-001-p01",
+    "child": 1
+  },
+  {
+    "id": 478836,
+    "name": "ЕврХимБ1Р2",
+    "code": "RU000A0JXRN4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/eurochem-bo-001-p02",
+    "child": 1
+  },
+  {
+    "id": 454322,
+    "name": "ЕврХол1P1R",
+    "code": "RU000A0JWBH2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/evrazholding-finance-001p-01r",
+    "child": 1
+  },
+  {
+    "id": 420775,
+    "name": "ЕврХолдФ 8",
+    "code": "RU000A0JVKK9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/evrazholding-finans-08",
+    "child": 1
+  },
+  {
+    "id": 487432,
+    "name": "ЕвроЭлтех",
+    "code": "EELT",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/european-eltech",
+    "child": 1
+  },
+  {
+    "id": 181588,
+    "name": "ЕвропланБ1",
+    "code": "RU000A0JU6G8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/evroplan-bo-1",
+    "child": 1
+  },
+  {
+    "id": 581842,
+    "name": "ЕвропланБ5",
+    "code": "RU000A1004K1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/europlan-bo-05",
+    "child": 1
+  },
+  {
+    "id": 462146,
+    "name": "ЕвропланБ7",
+    "code": "RU000A0JWVL2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/evroplan-bo-7",
+    "child": 1
+  },
+  {
+    "id": 496495,
+    "name": "ЕвропланБ8",
+    "code": "RU000A0ZZBV2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/europlan-bo-08",
+    "child": 1
+  },
+  {
+    "id": 492152,
+    "name": "ЖКИнвБО01",
+    "code": "RU000A0ZYSS5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/zhilkapinvest-bo-01",
+    "child": 1
+  },
+  {
+    "id": 82001,
+    "name": "ЗВЕЗДА ао",
+    "code": "ZVEZ",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/zvezda-ao",
+    "child": 1
+  },
+  {
+    "id": 388633,
+    "name": "ЗапСибКБ-2",
+    "code": "RU000A0JUP63",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/zapsibkombank-02",
+    "child": 1
+  },
+  {
+    "id": 388519,
+    "name": "ЗенитБО-13",
+    "code": "RU000A0JUPW5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/zenit-bo-13",
+    "child": 1
+  },
+  {
+    "id": 502051,
+    "name": "ИА БСПБ2 1",
+    "code": "RU000A0ZZW77",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mortgage-agent-bspb-2-ob-01",
+    "child": 1
+  },
+  {
+    "id": 501637,
+    "name": "ИА ДОМ 6P2",
+    "code": "RU000A0ZZV86",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/dom-rf-mortgage-agent-06-002p",
+    "child": 1
+  },
+  {
+    "id": 495303,
+    "name": "ИАМетинв-2",
+    "code": "RU000A0ZZ6K5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ma-metallinvest-2-ob-01",
+    "child": 1
+  },
+  {
+    "id": 386377,
+    "name": "ИАПетрок1А",
+    "code": "RU000A0JUHY8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ia-petrokommerc-1-cl-a",
+    "child": 1
+  },
+  {
+    "id": 81786,
+    "name": "ИКРУСС-ИНВ",
+    "code": "RUSI",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/russ-invest-ic-ao",
+    "child": 1
+  },
+  {
+    "id": 460816,
+    "name": "ИКС5Фин1P1",
+    "code": "RU000A0JWUD1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/x5-finance-001p-01",
+    "child": 1
+  },
+  {
+    "id": 478838,
+    "name": "ИКС5Фин1P2",
+    "code": "RU000A0JXRS3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/x5-finance-001p-02",
+    "child": 1
+  },
+  {
+    "id": 493774,
+    "name": "ИКС5Фин1P3",
+    "code": "RU000A0ZZ083",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/x5-finanse-001p-03",
+    "child": 1
+  },
+  {
+    "id": 577729,
+    "name": "ИКС5Фин1P4",
+    "code": "RU000A1002L3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/x5-finanse-001p-04",
+    "child": 1
+  },
+  {
+    "id": 454880,
+    "name": "ИКС5ФинБО6",
+    "code": "RU000A0JWG05",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/x5-finance-bo-06",
+    "child": 1
+  },
+  {
+    "id": 457603,
+    "name": "ИКС5ФинБО7",
+    "code": "RU000A0JWPL4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/x5-finance-bo-07",
+    "child": 1
+  },
+  {
+    "id": 454406,
+    "name": "ИНГБ-БО1",
+    "code": "RU000A0JWC74",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ing-bank-bo-01",
+    "child": 1
+  },
+  {
+    "id": 419570,
+    "name": "ИНГБ-БО5",
+    "code": "RU000A0JVFJ1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ing-bank-bo-05",
+    "child": 1
+  },
+  {
+    "id": 20711,
+    "name": "ИНГРАД ао",
+    "code": "OPIN",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/otkrytye-investicii-opin",
+    "child": 1
+  },
+  {
+    "id": 181931,
+    "name": "ИРКУТ БО-4",
+    "code": "RU000A0JUA45",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/irkut-bo-04",
+    "child": 1
+  },
+  {
+    "id": 15547,
+    "name": "ИРКУТ-3",
+    "code": "IRKT",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/irkut-3",
+    "child": 1
+  },
+  {
+    "id": 81887,
+    "name": "Ижсталь ап",
+    "code": "IGSTP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/izhstal-ap",
+    "child": 1
+  },
+  {
+    "id": 81885,
+    "name": "Ижсталь2ао",
+    "code": "IGST",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/izhstal-2ao",
+    "child": 1
+  },
+  {
+    "id": 462310,
+    "name": "ИнтезБ1P1R",
+    "code": "RU000A0JWVS7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/bank-inteza-bo-001p-01r",
+    "child": 1
+  },
+  {
+    "id": 20516,
+    "name": "ИнтерРАОао",
+    "code": "IRAO",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/inter-rao-ao",
+    "child": 1
+  },
+  {
+    "id": 20516,
+    "name": "ИнтерРАОао",
+    "code": "IRAO",
+    "market": 200,
+    "decp": 4,
+    "url": "moex-akcii/inter-rao-ao",
+    "child": 1
+  },
+  {
+    "id": 492794,
+    "name": "ИнфВотч1P1",
+    "code": "RU000A0ZYW94",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/infowatch-001p-01",
+    "child": 1
+  },
+  {
+    "id": 471216,
+    "name": "ИркОбл2016",
+    "code": "RU000A0JX314",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/irkutsk-reg-34001",
+    "child": 1
+  },
+  {
+    "id": 9,
+    "name": "ИркЭнерго",
+    "code": "IRGZ",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/irkutskenrg",
+    "child": 1
+  },
+  {
+    "id": 15544,
+    "name": "КАМАЗ",
+    "code": "KMAZ",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/kamaz",
+    "child": 1
+  },
+  {
+    "id": 15544,
+    "name": "КАМАЗ",
+    "code": "KMAZ",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/kamaz",
+    "child": 1
+  },
+  {
+    "id": 450618,
+    "name": "КАМАЗ БО-4",
+    "code": "RU000A0JVZC4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kamaz-pao-bo-04",
+    "child": 1
+  },
+  {
+    "id": 578667,
+    "name": "КАМАЗ БОП1",
+    "code": "RU000A1003C0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kamaz-ptc-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 876236,
+    "name": "КАМАЗ БОП2",
+    "code": "RU000A1007V1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kamaz-ptc-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 488873,
+    "name": "КЕБ Б01P01",
+    "code": "RU000A0ZYDA5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/credit-europe-bank-bo1p-01",
+    "child": 1
+  },
+  {
+    "id": 502371,
+    "name": "КЕБ БО1Р02",
+    "code": "RU000A0ZZXP8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/credit-europe-bank-ltd-001p-02",
+    "child": 1
+  },
+  {
+    "id": 15937,
+    "name": "КМЗ",
+    "code": "KVMZ",
+    "market": 16,
+    "decp": 4,
+    "url": "mmvb-arhiv/kovrov-mech-zavod",
+    "child": 1
+  },
+  {
+    "id": 22525,
+    "name": "КМЗ",
+    "code": "KMEZ",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/kovrov-mech-zavod",
+    "child": 1
+  },
+  {
+    "id": 500471,
+    "name": "КОБР-15",
+    "code": "RU000A0ZZSH5",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/kobr-15",
+    "child": 1
+  },
+  {
+    "id": 502324,
+    "name": "КОБР-16",
+    "code": "RU000A0ZZWR6",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/kobr-16",
+    "child": 1
+  },
+  {
+    "id": 546871,
+    "name": "КОБР-17",
+    "code": "RU000A1000P8",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/kobr-17",
+    "child": 1
+  },
+  {
+    "id": 578711,
+    "name": "КОБР-18",
+    "code": "RU000A1002Z3",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/kobr-18",
+    "child": 1
+  },
+  {
+    "id": 874106,
+    "name": "КОБР-19",
+    "code": "RU000A1005F8",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/kobr-19",
+    "child": 1
+  },
+  {
+    "id": 388385,
+    "name": "КОМИ 11 об",
+    "code": "RU000A0JUN81",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/komi-11",
+    "child": 1
+  },
+  {
+    "id": 420774,
+    "name": "КОМИ 12 об",
+    "code": "RU000A0JVKF9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/komi-12",
+    "child": 1
+  },
+  {
+    "id": 483917,
+    "name": "КОМИ 14 об",
+    "code": "RU000A0JXUD9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/komi-14",
+    "child": 1
+  },
+  {
+    "id": 471322,
+    "name": "КОМКОРПБ1",
+    "code": "RU000A0JX3H0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/comcor-p01-bo-01",
+    "child": 1
+  },
+  {
+    "id": 16284,
+    "name": "КСБ ао",
+    "code": "KTSB",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/ksb",
+    "child": 1
+  },
+  {
+    "id": 16285,
+    "name": "КСБ ап",
+    "code": "KTSBP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/ksb-ap",
+    "child": 1
+  },
+  {
+    "id": 481444,
+    "name": "КТЖФинанс1",
+    "code": "RU000A0JXS34",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ktz-finance-01",
+    "child": 1
+  },
+  {
+    "id": 491104,
+    "name": "КЧР 2017",
+    "code": "RU000A0ZYL22",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/karachaevo-cherkesskaja-rep-17",
+    "child": 1
+  },
+  {
+    "id": 476913,
+    "name": "Калаш БП1",
+    "code": "RU000A0JXPU3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/concern-kalashnikov-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 490868,
+    "name": "КалинОбл17",
+    "code": "RU000A0ZYKU8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kaliningrad-oblast-2017",
+    "child": 1
+  },
+  {
+    "id": 502441,
+    "name": "Калсб 1P01",
+    "code": "RU000A0ZZYL5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kaluga-power-sale-1p-01",
+    "child": 1
+  },
+  {
+    "id": 16329,
+    "name": "КалужскСК",
+    "code": "KLSB",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/kalugsk-sbyt-company-ao",
+    "child": 1
+  },
+  {
+    "id": 500469,
+    "name": "КамчКрай01",
+    "code": "RU000A0ZZSW4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kamchatka-territory-01",
+    "child": 1
+  },
+  {
+    "id": 20030,
+    "name": "КамчатЭ ао",
+    "code": "KCHE",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/kamchatskenergo",
+    "child": 1
+  },
+  {
+    "id": 20498,
+    "name": "КамчатЭ ап",
+    "code": "KCHEP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/kamchatskenergo-pref",
+    "child": 1
+  },
+  {
+    "id": 487672,
+    "name": "КарМаниБ1",
+    "code": "RU000A0ZYAQ7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/capital-collateral-house-b-1-1",
+    "child": 1
+  },
+  {
+    "id": 494032,
+    "name": "КарМаниБ2",
+    "code": "RU000A0ZZ1F6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/capital-collateral-house-b-1-2",
+    "child": 1
+  },
+  {
+    "id": 181105,
+    "name": "Карелия 16",
+    "code": "RU000A0JU1V8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/karelia-16",
+    "child": 1
+  },
+  {
+    "id": 398321,
+    "name": "Карелия 17",
+    "code": "RU000A0JUWJ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/karelia-17",
+    "child": 1
+  },
+  {
+    "id": 488770,
+    "name": "Карелия 18",
+    "code": "RU000A0ZYCZ4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/karelia-18",
+    "child": 1
+  },
+  {
+    "id": 454747,
+    "name": "КаркадеБ02",
+    "code": "RU000A0JWEK0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/carcade-bo-02",
+    "child": 1
+  },
+  {
+    "id": 483516,
+    "name": "КаркадеБ03",
+    "code": "RU000A0JXTH2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/carcade-bo-03",
+    "child": 1
+  },
+  {
+    "id": 18310,
+    "name": "Квадра",
+    "code": "TGKD",
+    "market": 1,
+    "decp": 6,
+    "url": "moex-akcii/kvadra",
+    "child": 1
+  },
+  {
+    "id": 18391,
+    "name": "Квадра-п",
+    "code": "TGKDP",
+    "market": 1,
+    "decp": 6,
+    "url": "moex-akcii/kvadra-pref",
+    "child": 1
+  },
+  {
+    "id": 20710,
+    "name": "КоршГОК ао",
+    "code": "KOGK",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/korshunovskii-gok",
+    "child": 1
+  },
+  {
+    "id": 511,
+    "name": "КрасОкт-1п",
+    "code": "KROTP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/krasnyioctabr-1-pr",
+    "child": 1
+  },
+  {
+    "id": 510,
+    "name": "КрасОкт-ао",
+    "code": "KROT",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/krasnyioctyabr",
+    "child": 1
+  },
+  {
+    "id": 436661,
+    "name": "КрасЯрКр10",
+    "code": "RU000A0JVS10",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnoyarsk-reg-34010",
+    "child": 1
+  },
+  {
+    "id": 450233,
+    "name": "КрасЯрКр11",
+    "code": "RU000A0JVWM0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnoyarsk-reg-34011",
+    "child": 1
+  },
+  {
+    "id": 464618,
+    "name": "КрасЯрКр12",
+    "code": "RU000A0JWXF0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnoyarsk-reg-34012",
+    "child": 1
+  },
+  {
+    "id": 488715,
+    "name": "КрасЯрКр13",
+    "code": "RU000A0ZYCM2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnoyarsk-reg-34013",
+    "child": 1
+  },
+  {
+    "id": 489369,
+    "name": "КрасЯрКр14",
+    "code": "RU000A0ZYFB8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnoyarsk-reg-35014",
+    "child": 1
+  },
+  {
+    "id": 498127,
+    "name": "КрасЯрКр16",
+    "code": "RU000A0ZZM87",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnoyarsk-territory-35016",
+    "child": 1
+  },
+  {
+    "id": 485452,
+    "name": "КраснодКр1",
+    "code": "RU000A0JXYS9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnodar-reg-35001",
+    "child": 1
+  },
+  {
+    "id": 495698,
+    "name": "КраснодКр2",
+    "code": "RU000A0ZZ8X4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/krasnodar-territory-35002",
+    "child": 1
+  },
+  {
+    "id": 19775,
+    "name": "КраснодКр2",
+    "code": "RU000A0JPJY4",
+    "market": 600,
+    "decp": 2,
+    "url": "mosbirzha-vnespisochnye-obligacii/krasnodar-reg-02",
+    "child": 1
+  },
+  {
+    "id": 20912,
+    "name": "Красэсб ао",
+    "code": "KRSB",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/krashojarskenergosbyt",
+    "child": 1
+  },
+  {
+    "id": 20913,
+    "name": "Красэсб ап",
+    "code": "KRSBP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/krashojarskenergosbyt-pref",
+    "child": 1
+  },
+  {
+    "id": 522,
+    "name": "Кубанэнр",
+    "code": "KUBE",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/kubanenrg",
+    "child": 1
+  },
+  {
+    "id": 35285,
+    "name": "КузбТК ао",
+    "code": "KBTK",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/kuzbas-topl-kompaniya-ao",
+    "child": 1
+  },
+  {
+    "id": 83165,
+    "name": "КузнецкийБ",
+    "code": "KUZB",
+    "market": 1,
+    "decp": 5,
+    "url": "moex-akcii/bank-kuzneckiy",
+    "child": 1
+  },
+  {
+    "id": 81941,
+    "name": "Куйбазот",
+    "code": "KAZT",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/kuib-azot-ao",
+    "child": 1
+  },
+  {
+    "id": 81942,
+    "name": "Куйбазот-п",
+    "code": "KAZTP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/kuibishevazot-ap",
+    "child": 1
+  },
+  {
+    "id": 488677,
+    "name": "Курск35001",
+    "code": "RU000A0ZYCD1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kursk-reg-35001",
+    "child": 1
+  },
+  {
+    "id": 496831,
+    "name": "ЛЕГЕНДА1P1",
+    "code": "RU000A0ZZCV0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/legenda-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 460754,
+    "name": "ЛСР БО 1Р1",
+    "code": "RU000A0JWU98",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lsr-1p-1",
+    "child": 1
+  },
+  {
+    "id": 476855,
+    "name": "ЛСР БО 1Р2",
+    "code": "RU000A0JXPM0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lsr-1p-2",
+    "child": 1
+  },
+  {
+    "id": 488572,
+    "name": "ЛСР БО 1Р3",
+    "code": "RU000A0ZYBV5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lsr-1p-3",
+    "child": 1
+  },
+  {
+    "id": 19736,
+    "name": "ЛСР ао",
+    "code": "LSRG",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/lsr",
+    "child": 1
+  },
+  {
+    "id": 19736,
+    "name": "ЛСР ао",
+    "code": "LSRG",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/lsr",
+    "child": 1
+  },
+  {
+    "id": 8,
+    "name": "ЛУКОЙЛ",
+    "code": "LKOH",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/lukoil",
+    "child": 1
+  },
+  {
+    "id": 8,
+    "name": "ЛУКОЙЛ",
+    "code": "LKOH",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/lukoil",
+    "child": 1
+  },
+  {
+    "id": 16276,
+    "name": "ЛЭСК ао",
+    "code": "LPSB",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/lesk-ao",
+    "child": 1
+  },
+  {
+    "id": 495651,
+    "name": "ЛадФин БО3",
+    "code": "RU000A0ZZ8U0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ladya-finans-bo-03",
+    "child": 1
+  },
+  {
+    "id": 490400,
+    "name": "ЛевенгукБ1",
+    "code": "RU000A0ZYHW0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/levenguk-bo-01",
+    "child": 1
+  },
+  {
+    "id": 22094,
+    "name": "Лензол. ап",
+    "code": "LNZLP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/lenzoloto-pref",
+    "child": 1
+  },
+  {
+    "id": 21004,
+    "name": "Лензолото",
+    "code": "LNZL",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/lenzoloto",
+    "child": 1
+  },
+  {
+    "id": 153032,
+    "name": "Лента 3 об",
+    "code": "RU000A0JTQB9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lenta-ooo-3-ob",
+    "child": 1
+  },
+  {
+    "id": 875203,
+    "name": "Лента Б1P2",
+    "code": "RU000A100782",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lenta-ooo-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 436106,
+    "name": "Лента БО-3",
+    "code": "RU000A0JVP05",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lenta-ooo-bo-03",
+    "child": 1
+  },
+  {
+    "id": 385792,
+    "name": "Лента др",
+    "code": "LNTA",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/lenta-ltd-dr",
+    "child": 1
+  },
+  {
+    "id": 542,
+    "name": "Ленэнерг-п",
+    "code": "LSNGP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/lenenrg-pref",
+    "child": 1
+  },
+  {
+    "id": 31,
+    "name": "Ленэнерго",
+    "code": "LSNG",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/lenenrg",
+    "child": 1
+  },
+  {
+    "id": 471265,
+    "name": "ЛидерИнБП1",
+    "code": "RU000A0JX3A5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lider-invest-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 492352,
+    "name": "ЛидерИнБП2",
+    "code": "RU000A0ZYU39",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lider-invest-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 175650,
+    "name": "ЛипецкОбл8",
+    "code": "RU000A0JTVZ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lipetsk-reg-2013",
+    "child": 1
+  },
+  {
+    "id": 388443,
+    "name": "ЛипецкОбл9",
+    "code": "RU000A0JUNK5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lipetsk-reg-2014",
+    "child": 1
+  },
+  {
+    "id": 456199,
+    "name": "ЛнССМУБ1P1",
+    "code": "RU000A0JWLG3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lenspecsmu-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 487611,
+    "name": "ЛнССМУБ1P2",
+    "code": "RU000A0ZYA66",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lenspecsmu-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 496376,
+    "name": "ЛомМасБОП1",
+    "code": "RU000A0ZZAR2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lombard-master-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 496893,
+    "name": "ЛомМасБОП2",
+    "code": "RU000A0ZZDQ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lombard-master-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 549063,
+    "name": "ЛомМасБОП3",
+    "code": "RU000A1001K7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lombard-master-bo-p03",
+    "child": 1
+  },
+  {
+    "id": 918,
+    "name": "Лукойл",
+    "code": "LKOH",
+    "market": 8,
+    "decp": 5,
+    "url": "raspiski/lukoil",
+    "child": 1
+  },
+  {
+    "id": 19737,
+    "name": "М.видео",
+    "code": "MVID",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/m-video",
+    "child": 1
+  },
+  {
+    "id": 19737,
+    "name": "М.видео",
+    "code": "MVID",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/m-video",
+    "child": 1
+  },
+  {
+    "id": 12983,
+    "name": "МГТС-4ап",
+    "code": "MGTSP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/mgts-4",
+    "child": 1
+  },
+  {
+    "id": 12984,
+    "name": "МГТС-5ао",
+    "code": "MGTS",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/mgts-5",
+    "child": 1
+  },
+  {
+    "id": 17874,
+    "name": "МГор48-об",
+    "code": "RU000A0JNYN1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moscow-48",
+    "child": 1
+  },
+  {
+    "id": 454321,
+    "name": "МЕТАЛИНБ02",
+    "code": "RU000A0JWBF6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/metalloinvest-hk-ao-bo-02",
+    "child": 1
+  },
+  {
+    "id": 454320,
+    "name": "МЕТАЛИНБ08",
+    "code": "RU000A0JWBE9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/metalloinvest-hk-ao-bo-08",
+    "child": 1
+  },
+  {
+    "id": 152836,
+    "name": "МЕТАЛИНВ 2",
+    "code": "RU000A0JTLJ3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/metalloinvest-hk-oao-02",
+    "child": 1
+  },
+  {
+    "id": 152837,
+    "name": "МЕТАЛИНВ 3",
+    "code": "RU000A0JTLL9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/metalloinvest-hk-oao-03",
+    "child": 1
+  },
+  {
+    "id": 419561,
+    "name": "МИндБ 01",
+    "code": "RU000A0JVFE2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moscow-industrial-bank-01",
+    "child": 1
+  },
+  {
+    "id": 414256,
+    "name": "МКБ БО-09",
+    "code": "RU000A0JU898",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mkb-bo-09",
+    "child": 1
+  },
+  {
+    "id": 388617,
+    "name": "МКБ БО-11",
+    "code": "RU000A0JUQR3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mkb-bo-11",
+    "child": 1
+  },
+  {
+    "id": 420694,
+    "name": "МКБ ао",
+    "code": "CBOM",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/oao-mkb-ao",
+    "child": 1
+  },
+  {
+    "id": 16782,
+    "name": "ММК",
+    "code": "MAGN",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/mmk",
+    "child": 1
+  },
+  {
+    "id": 16782,
+    "name": "ММК",
+    "code": "MAGN",
+    "market": 200,
+    "decp": 3,
+    "url": "moex-akcii/mmk",
+    "child": 1
+  },
+  {
+    "id": 80897,
+    "name": "ММК",
+    "code": "MMK",
+    "market": 8,
+    "decp": 5,
+    "url": "raspiski/mmk",
+    "child": 1
+  },
+  {
+    "id": 457114,
+    "name": "МОСТРЕСТ 7",
+    "code": "RU000A0JWN63",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mostotrest-07",
+    "child": 1
+  },
+  {
+    "id": 457647,
+    "name": "МОСТРЕСТ 8",
+    "code": "RU000A0JWN89",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mostotrest-08",
+    "child": 1
+  },
+  {
+    "id": 592962,
+    "name": "МОЭК БО1P1",
+    "code": "RU000A1005H4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mipc-jsc-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 16917,
+    "name": "МОЭСК",
+    "code": "MSRS",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/moesk",
+    "child": 1
+  },
+  {
+    "id": 398155,
+    "name": "МОЭСК БО-4",
+    "code": "RU000A0JUUU9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moesk-bo-04",
+    "child": 1
+  },
+  {
+    "id": 457242,
+    "name": "МОЭСК БО-6",
+    "code": "RU000A0JWNK1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moesk-bo-06",
+    "child": 1
+  },
+  {
+    "id": 454789,
+    "name": "МОЭСК БО-8",
+    "code": "RU000A0JWEZ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moesk-bo-08",
+    "child": 1
+  },
+  {
+    "id": 474025,
+    "name": "МОЭСК БО-9",
+    "code": "RU000A0JXJS0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moesk-bo-09",
+    "child": 1
+  },
+  {
+    "id": 478495,
+    "name": "МОЭСК БО10",
+    "code": "RU000A0JXR50",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moesk-bo-10",
+    "child": 1
+  },
+  {
+    "id": 20309,
+    "name": "МРСК СЗ",
+    "code": "MRKZ",
+    "market": 1,
+    "decp": 5,
+    "url": "moex-akcii/mrsk-severo-zapada",
+    "child": 1
+  },
+  {
+    "id": 20412,
+    "name": "МРСК СК",
+    "code": "MRKK",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/mrsk-severnogo-kavkaza-ao",
+    "child": 1
+  },
+  {
+    "id": 20402,
+    "name": "МРСК Ур",
+    "code": "MRKU",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/mrsk-urala-ao",
+    "child": 1
+  },
+  {
+    "id": 20107,
+    "name": "МРСК ЦП",
+    "code": "MRKP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/mrsk-cip",
+    "child": 1
+  },
+  {
+    "id": 20235,
+    "name": "МРСК Центр",
+    "code": "MRKC",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/mrsk-centra",
+    "child": 1
+  },
+  {
+    "id": 20286,
+    "name": "МРСКВол",
+    "code": "MRKV",
+    "market": 1,
+    "decp": 5,
+    "url": "moex-akcii/mrsk-volgi",
+    "child": 1
+  },
+  {
+    "id": 20346,
+    "name": "МРСКСиб",
+    "code": "MRKS",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/mrsk-sibiri",
+    "child": 1
+  },
+  {
+    "id": 20681,
+    "name": "МРСКЮга ао",
+    "code": "MRKY",
+    "market": 1,
+    "decp": 5,
+    "url": "moex-akcii/mrsk-yuga",
+    "child": 1
+  },
+  {
+    "id": 501246,
+    "name": "МСБЛиз2P01",
+    "code": "RU000A0ZZUR0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/msb-leasing-002p-01",
+    "child": 1
+  },
+  {
+    "id": 473180,
+    "name": "МТС 001P-1",
+    "code": "RU000A0JXEV5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mts-001p-01",
+    "child": 1
+  },
+  {
+    "id": 489370,
+    "name": "МТС 001P-3",
+    "code": "RU000A0ZYFC6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mts-001p-03",
+    "child": 1
+  },
+  {
+    "id": 492883,
+    "name": "МТС 1P-05",
+    "code": "RU000A0ZYWX7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mts-001p-05",
+    "child": 1
+  },
+  {
+    "id": 492884,
+    "name": "МТС 1P-06",
+    "code": "RU000A0ZYWY5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mts-001p-06",
+    "child": 1
+  },
+  {
+    "id": 573192,
+    "name": "МТС 1P-07",
+    "code": "RU000A100238",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mts-001p-07",
+    "child": 1
+  },
+  {
+    "id": 153153,
+    "name": "МТС БО-01",
+    "code": "RU000A0JTTA5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mts-bo-01",
+    "child": 1
+  },
+  {
+    "id": 15523,
+    "name": "МТС-ао",
+    "code": "MTSS",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/mts",
+    "child": 1
+  },
+  {
+    "id": 15523,
+    "name": "МТС-ао",
+    "code": "MTSS",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/mts",
+    "child": 1
+  },
+  {
+    "id": 74562,
+    "name": "МагадЭн ао",
+    "code": "MAGE",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/magadanenergo-ao",
+    "child": 1
+  },
+  {
+    "id": 17086,
+    "name": "Магнит ао",
+    "code": "MGNT",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/magnit",
+    "child": 1
+  },
+  {
+    "id": 17086,
+    "name": "Магнит ао",
+    "code": "MGNT",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/magnit",
+    "child": 1
+  },
+  {
+    "id": 578582,
+    "name": "Магнит3Р01",
+    "code": "RU000A1002U4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/magnit-bo-003p-01",
+    "child": 1
+  },
+  {
+    "id": 581330,
+    "name": "Магнит3Р02",
+    "code": "RU000A1004G9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/magnit-bo-003p-02",
+    "child": 1
+  },
+  {
+    "id": 152516,
+    "name": "МегаФон ао",
+    "code": "MFON",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/megafon-ao",
+    "child": 1
+  },
+  {
+    "id": 152516,
+    "name": "МегаФон ао",
+    "code": "MFON",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/megafon-ao",
+    "child": 1
+  },
+  {
+    "id": 488673,
+    "name": "МегафнБ1P3",
+    "code": "RU000A0ZYC98",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/megafon-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 492305,
+    "name": "Мегафон1P4",
+    "code": "RU000A0ZYTM6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/megafon-bo-001p-04",
+    "child": 1
+  },
+  {
+    "id": 577730,
+    "name": "Мегафон1P5",
+    "code": "RU000A1002P4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/megafon-bo-001p-05",
+    "child": 1
+  },
+  {
+    "id": 454933,
+    "name": "МегафонБ1P",
+    "code": "RU000A0JWGG3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/megafon-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 30,
+    "name": "Мегион-ао",
+    "code": "MFGS",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/megion",
+    "child": 1
+  },
+  {
+    "id": 51,
+    "name": "Мегион-ап",
+    "code": "MFGSP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/megion-pref",
+    "child": 1
+  },
+  {
+    "id": 81829,
+    "name": "МедиаВиМ",
+    "code": "MGVM",
+    "market": 16,
+    "decp": 4,
+    "url": "moex-akcii/war-and-peace-media-group-ao",
+    "child": 1
+  },
+  {
+    "id": 20737,
+    "name": "Медиахолд",
+    "code": "ODVA",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/mediaholding",
+    "child": 1
+  },
+  {
+    "id": 483513,
+    "name": "МежИнБ01P1",
+    "code": "RU000A0JXT58",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/international-invest-bank-1p1",
+    "child": 1
+  },
+  {
+    "id": 152543,
+    "name": "Меркурий-1",
+    "code": "RU000A0JTD37",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fk-mercury-ooo-01",
+    "child": 1
+  },
+  {
+    "id": 17878,
+    "name": "Меркурий-1",
+    "code": "RU000A0JNT19",
+    "market": 600,
+    "decp": 4,
+    "url": "mosbirzha-vnespisochnye-obligacii/merkuriy-01",
+    "child": 1
+  },
+  {
+    "id": 74391,
+    "name": "Мечел 13об",
+    "code": "RU000A0JR0K8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mechel-13",
+    "child": 1
+  },
+  {
+    "id": 74390,
+    "name": "Мечел 14об",
+    "code": "RU000A0JR0J0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mechel-14",
+    "child": 1
+  },
+  {
+    "id": 80310,
+    "name": "Мечел 16об",
+    "code": "RU000A0JR8P0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mechel-16",
+    "child": 1
+  },
+  {
+    "id": 81041,
+    "name": "Мечел 17об",
+    "code": "RU000A0JRJS2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mechel-17",
+    "child": 1
+  },
+  {
+    "id": 81042,
+    "name": "Мечел 18об",
+    "code": "RU000A0JRJT0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mechel-18",
+    "child": 1
+  },
+  {
+    "id": 81043,
+    "name": "Мечел 19об",
+    "code": "RU000A0JRJY0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/mechel-19",
+    "child": 1
+  },
+  {
+    "id": 21018,
+    "name": "Мечел ао",
+    "code": "MTLR",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/mechel",
+    "child": 1
+  },
+  {
+    "id": 80745,
+    "name": "Мечел ап",
+    "code": "MTLRP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/mechel-pref",
+    "child": 1
+  },
+  {
+    "id": 454818,
+    "name": "МиратФБО-6",
+    "code": "RU000A0JWF22",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/miratorg-finans-bo-06",
+    "child": 1
+  },
+  {
+    "id": 16359,
+    "name": "МордЭнСб",
+    "code": "MRSB",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/mordovskaya-energosbyt-comp",
+    "child": 1
+  },
+  {
+    "id": 449113,
+    "name": "Мордовия02",
+    "code": "RU000A0JVV49",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/respublika-mordovia-02",
+    "child": 1
+  },
+  {
+    "id": 459662,
+    "name": "Мордовия03",
+    "code": "RU000A0JWSQ7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/respublika-mordovia-03",
+    "child": 1
+  },
+  {
+    "id": 152798,
+    "name": "МосБиржа",
+    "code": "MOEX",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/moscowexchange",
+    "child": 1
+  },
+  {
+    "id": 152798,
+    "name": "МосБиржа",
+    "code": "MOEX",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/moscowexchange",
+    "child": 1
+  },
+  {
+    "id": 466807,
+    "name": "МосОбл2016",
+    "code": "RU000A0JX0B9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moscow-region-minfin-2016",
+    "child": 1
+  },
+  {
+    "id": 491262,
+    "name": "МосОбл2017",
+    "code": "RU000A0ZYML3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/moscow-region-mef-2017",
+    "child": 1
+  },
+  {
+    "id": 82890,
+    "name": "МосОблБанк",
+    "code": "MOBB",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/akb-moskovskii-oblastnoi-bank",
+    "child": 1
+  },
+  {
+    "id": 797,
+    "name": "Мостотрест",
+    "code": "RU14MOST0107",
+    "market": 16,
+    "decp": 4,
+    "url": "mmvb-arhiv/_RU14MOST0107",
+    "child": 1
+  },
+  {
+    "id": 74549,
+    "name": "Мостотрест",
+    "code": "MSTT",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/mostotrest",
+    "child": 1
+  },
+  {
+    "id": 74549,
+    "name": "Мостотрест",
+    "code": "MSTT",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/mostotrest",
+    "child": 1
+  },
+  {
+    "id": 152676,
+    "name": "МультиСис",
+    "code": "MSST",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/mul-tisistema-ao",
+    "child": 1
+  },
+  {
+    "id": 496309,
+    "name": "МясничБОП1",
+    "code": "RU000A0ZZAE0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/myasnichiy-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 497235,
+    "name": "МясничБОП2",
+    "code": "RU000A0ZZGZ2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/myasnichiy-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 874153,
+    "name": "МясничБОП3",
+    "code": "RU000A1006B5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/myasnichiy-bo-p03",
+    "child": 1
+  },
+  {
+    "id": 489368,
+    "name": "НАО 2017",
+    "code": "RU000A0ZYF61",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nenets-aut-okrug-2017",
+    "child": 1
+  },
+  {
+    "id": 581889,
+    "name": "НЗРМ БО-П1",
+    "code": "RU000A1004Z9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nmcp-llc-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 502483,
+    "name": "НКНХ 1Р-01",
+    "code": "RU000A0ZZZ17",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nizhnekamskneftekhim-001p-01",
+    "child": 1
+  },
+  {
+    "id": 20100,
+    "name": "НКНХ ао",
+    "code": "NKNC",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/niznekamskneftekhim-ao",
+    "child": 1
+  },
+  {
+    "id": 20101,
+    "name": "НКНХ ап",
+    "code": "NKNCP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/niznekamskneftekhim-pref",
+    "child": 1
+  },
+  {
+    "id": 450432,
+    "name": "НКХП ао",
+    "code": "NKHP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/nkhp-ao",
+    "child": 1
+  },
+  {
+    "id": 17046,
+    "name": "НЛМК ао",
+    "code": "NLMK",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/nlmk-ao",
+    "child": 1
+  },
+  {
+    "id": 17046,
+    "name": "НЛМК ао",
+    "code": "NLMK",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/nlmk-ao",
+    "child": 1
+  },
+  {
+    "id": 19629,
+    "name": "НМТП ао",
+    "code": "NMTP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/nmtp",
+    "child": 1
+  },
+  {
+    "id": 19629,
+    "name": "НМТП ао",
+    "code": "NMTP",
+    "market": 200,
+    "decp": 3,
+    "url": "moex-akcii/nmtp",
+    "child": 1
+  },
+  {
+    "id": 492343,
+    "name": "НПК ПБО-01",
+    "code": "RU000A0ZYTZ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/new-forwarding-company-pbo-01",
+    "child": 1
+  },
+  {
+    "id": 578855,
+    "name": "НПК ПБО-02",
+    "code": "RU000A1004A2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/new-forwarding-company-pbo-02",
+    "child": 1
+  },
+  {
+    "id": 578599,
+    "name": "НафттрнБО1",
+    "code": "RU000A100303",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/naftatrans-plus-llc-bo-01",
+    "child": 1
+  },
+  {
+    "id": 388284,
+    "name": "НацКап Б06",
+    "code": "RU000A0JUKS4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/natsionalniy-kapital-bo-06",
+    "child": 1
+  },
+  {
+    "id": 388285,
+    "name": "НацКап Б07",
+    "code": "RU000A0JUKT2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/natsionalniy-kapital-bo-07",
+    "child": 1
+  },
+  {
+    "id": 436767,
+    "name": "НацКап Б08",
+    "code": "RU000A0JVS93",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/natsionalniy-kapital-bo-08",
+    "child": 1
+  },
+  {
+    "id": 81225,
+    "name": "НефГазХол4",
+    "code": "RU000A0JRJV6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nnk-aktiv-04",
+    "child": 1
+  },
+  {
+    "id": 81226,
+    "name": "НефГазХол6",
+    "code": "RU000A0JRK22",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nnk-aktiv-06",
+    "child": 1
+  },
+  {
+    "id": 436276,
+    "name": "НижгорОб10",
+    "code": "RU000A0JVPR3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nizhniy-novgorod-reg-10",
+    "child": 1
+  },
+  {
+    "id": 456174,
+    "name": "НижгорОб11",
+    "code": "RU000A0JWLD0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nizhniy-novgorod-reg-11",
+    "child": 1
+  },
+  {
+    "id": 488916,
+    "name": "НижгорОб12",
+    "code": "RU000A0ZYDQ1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nizhniy-novgorod-reg-12",
+    "child": 1
+  },
+  {
+    "id": 181343,
+    "name": "НижгорОбл9",
+    "code": "RU000A0JU3B6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/nizhniy-novgorod-reg-09",
+    "child": 1
+  },
+  {
+    "id": 81947,
+    "name": "Нижкамшина",
+    "code": "NKSH",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/nizhnekamskshina-ao",
+    "child": 1
+  },
+  {
+    "id": 17370,
+    "name": "Новатэк ао",
+    "code": "NVTK",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/novatek",
+    "child": 1
+  },
+  {
+    "id": 17370,
+    "name": "Новатэк ао",
+    "code": "NVTK",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/novatek",
+    "child": 1
+  },
+  {
+    "id": 420673,
+    "name": "НовикомБО5",
+    "code": "RU000A0JVJ45",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/novikombank-bo-05",
+    "child": 1
+  },
+  {
+    "id": 499198,
+    "name": "Новосиб 19",
+    "code": "RU000A0ZZPB4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/novosibirsk-region-19",
+    "child": 1
+  },
+  {
+    "id": 181104,
+    "name": "Новсиб 6об",
+    "code": "RU000A0JU1T2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/novosibirsk-6",
+    "child": 1
+  },
+  {
+    "id": 448990,
+    "name": "Новсиб 7об",
+    "code": "RU000A0JVUD3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/novosibirsk-7",
+    "child": 1
+  },
+  {
+    "id": 455227,
+    "name": "Новсиб 8об",
+    "code": "RU000A0JWHW8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/novosibirsk-8",
+    "child": 1
+  },
+  {
+    "id": 398276,
+    "name": "Новсиб2014",
+    "code": "RU000A0JUR46",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/novosibirskaya-oblast-2014",
+    "child": 1
+  },
+  {
+    "id": 477282,
+    "name": "О'КЕЙ-Б01Р",
+    "code": "RU000A0JXQH8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/o-key-ooo-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 414545,
+    "name": "О'КЕЙ-Б05",
+    "code": "RU000A0JVD17",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/o-key-ooo-bo-05",
+    "child": 1
+  },
+  {
+    "id": 454494,
+    "name": "О'КЕЙ-Б06",
+    "code": "RU000A0JWCK4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/o-key-ooo-bo-06",
+    "child": 1
+  },
+  {
+    "id": 477285,
+    "name": "О1ГрФин1P1",
+    "code": "RU000A0JXQM8",
+    "market": 12,
+    "decp": 2,
+    "url": "moex-obligacii/o1-groop-finance-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 502120,
+    "name": "ОАЭ  БО-П1",
+    "code": "RU000A0ZZWJ3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/objedinenieagroelita-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 502446,
+    "name": "ОАЭ  БО-П2",
+    "code": "RU000A0ZZYP6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/objedinenieagroelita-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 398103,
+    "name": "ОВК Фин Б1",
+    "code": "RU000A0JUU25",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uwc-finance-llc-bo-01",
+    "child": 1
+  },
+  {
+    "id": 414560,
+    "name": "ОВК ао",
+    "code": "UWGN",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/ovk-ao",
+    "child": 1
+  },
+  {
+    "id": 494033,
+    "name": "ОГК-2 1P3R",
+    "code": "RU000A0ZZ1H2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ogk-2-bo-001p-03r",
+    "child": 1
+  },
+  {
+    "id": 17272,
+    "name": "ОГК-2 ао",
+    "code": "OGKB-001D",
+    "market": 16,
+    "decp": 4,
+    "url": "mmvb-arhiv/_OGKB-001D",
+    "child": 1
+  },
+  {
+    "id": 18684,
+    "name": "ОГК-2 ао",
+    "code": "OGKB",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/ogk-2",
+    "child": 1
+  },
+  {
+    "id": 175781,
+    "name": "ОКС ао",
+    "code": "UCSS",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/pao-oks-ao",
+    "child": 1
+  },
+  {
+    "id": 15844,
+    "name": "ОМЗ-ап",
+    "code": "OMZZP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/omz-pref",
+    "child": 1
+  },
+  {
+    "id": 488674,
+    "name": "ОР ао",
+    "code": "OBUV",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/or",
+    "child": 1
+  },
+  {
+    "id": 467460,
+    "name": "ОФЗ 24019",
+    "code": "SU24019RMFS0",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-24019",
+    "child": 1
+  },
+  {
+    "id": 488818,
+    "name": "ОФЗ 25083",
+    "code": "SU25083RMFS5",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-25083",
+    "child": 1
+  },
+  {
+    "id": 82190,
+    "name": "ОФЗ 26205",
+    "code": "SU26205RMFS3",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26205",
+    "child": 1
+  },
+  {
+    "id": 82227,
+    "name": "ОФЗ 26207",
+    "code": "SU26207RMFS9",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26207",
+    "child": 1
+  },
+  {
+    "id": 82348,
+    "name": "ОФЗ 26208",
+    "code": "SU26208RMFS7",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26208",
+    "child": 1
+  },
+  {
+    "id": 82911,
+    "name": "ОФЗ 26209",
+    "code": "SU26209RMFS5",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26209",
+    "child": 1
+  },
+  {
+    "id": 152680,
+    "name": "ОФЗ 26210",
+    "code": "SU26210RMFS3",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26210",
+    "child": 1
+  },
+  {
+    "id": 152760,
+    "name": "ОФЗ 26211",
+    "code": "SU26211RMFS1",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26211",
+    "child": 1
+  },
+  {
+    "id": 152768,
+    "name": "ОФЗ 26212",
+    "code": "SU26212RMFS9",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26212",
+    "child": 1
+  },
+  {
+    "id": 181694,
+    "name": "ОФЗ 26214",
+    "code": "SU26214RMFS5",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26214",
+    "child": 1
+  },
+  {
+    "id": 181498,
+    "name": "ОФЗ 26215",
+    "code": "SU26215RMFS2",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26215",
+    "child": 1
+  },
+  {
+    "id": 181877,
+    "name": "ОФЗ 26216",
+    "code": "SU26216RMFS0",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26216",
+    "child": 1
+  },
+  {
+    "id": 453557,
+    "name": "ОФЗ 26217",
+    "code": "SU26217RMFS8",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26217",
+    "child": 1
+  },
+  {
+    "id": 453727,
+    "name": "ОФЗ 26218",
+    "code": "SU26218RMFS6",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26218",
+    "child": 1
+  },
+  {
+    "id": 456593,
+    "name": "ОФЗ 26219",
+    "code": "SU26219RMFS4",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26219",
+    "child": 1
+  },
+  {
+    "id": 472814,
+    "name": "ОФЗ 26220",
+    "code": "SU26220RMFS2",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26220",
+    "child": 1
+  },
+  {
+    "id": 474454,
+    "name": "ОФЗ 26221",
+    "code": "SU26221RMFS0",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26221",
+    "child": 1
+  },
+  {
+    "id": 477176,
+    "name": "ОФЗ 26222",
+    "code": "SU26222RMFS8",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26222",
+    "child": 1
+  },
+  {
+    "id": 492678,
+    "name": "ОФЗ 26223",
+    "code": "SU26223RMFS6",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26223",
+    "child": 1
+  },
+  {
+    "id": 492891,
+    "name": "ОФЗ 26224",
+    "code": "SU26224RMFS4",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26224",
+    "child": 1
+  },
+  {
+    "id": 492679,
+    "name": "ОФЗ 26225",
+    "code": "SU26225RMFS1",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26225",
+    "child": 1
+  },
+  {
+    "id": 578600,
+    "name": "ОФЗ 26226",
+    "code": "SU26226RMFS9",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26226",
+    "child": 1
+  },
+  {
+    "id": 875205,
+    "name": "ОФЗ 26227",
+    "code": "SU26227RMFS7",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-26227",
+    "child": 1
+  },
+  {
+    "id": 408528,
+    "name": "ОФЗ 29006",
+    "code": "SU29006RMFS2",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-29006",
+    "child": 1
+  },
+  {
+    "id": 408529,
+    "name": "ОФЗ 29007",
+    "code": "SU29007RMFS0",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-29007",
+    "child": 1
+  },
+  {
+    "id": 408530,
+    "name": "ОФЗ 29008",
+    "code": "SU29008RMFS8",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-29008",
+    "child": 1
+  },
+  {
+    "id": 408531,
+    "name": "ОФЗ 29009",
+    "code": "SU29009RMFS6",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-29009",
+    "child": 1
+  },
+  {
+    "id": 408532,
+    "name": "ОФЗ 29010",
+    "code": "SU29010RMFS4",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-29010",
+    "child": 1
+  },
+  {
+    "id": 408715,
+    "name": "ОФЗ 29011",
+    "code": "SU29011RMFS2",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-29011",
+    "child": 1
+  },
+  {
+    "id": 466839,
+    "name": "ОФЗ 29012",
+    "code": "SU29012RMFS0",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-pd-29012",
+    "child": 1
+  },
+  {
+    "id": 82199,
+    "name": "ОФЗ 46018",
+    "code": "SU46018RMFS6",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-ad-46018",
+    "child": 1
+  },
+  {
+    "id": 82200,
+    "name": "ОФЗ 46019",
+    "code": "SU46019RMFS4",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-ad-46019",
+    "child": 1
+  },
+  {
+    "id": 82201,
+    "name": "ОФЗ 46020",
+    "code": "SU46020RMFS2",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-ad-46020",
+    "child": 1
+  },
+  {
+    "id": 82203,
+    "name": "ОФЗ 46022",
+    "code": "SU46022RMFS8",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-ad-46022",
+    "child": 1
+  },
+  {
+    "id": 434670,
+    "name": "ОФЗ 52001",
+    "code": "SU52001RMFS3",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-in-52001",
+    "child": 1
+  },
+  {
+    "id": 493977,
+    "name": "ОФЗ 52002",
+    "code": "SU52002RMFS1",
+    "market": 2,
+    "decp": 4,
+    "url": "moex-obligacii/ofz-in-52002",
+    "child": 1
+  },
+  {
+    "id": 484481,
+    "name": "ОбувьрусБ1",
+    "code": "RU000A0JXVY3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/obuvrus-bo-01",
+    "child": 1
+  },
+  {
+    "id": 462728,
+    "name": "ОмскАдм 2",
+    "code": "RU000A0JWWQ9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/omsk-administration-2016",
+    "child": 1
+  },
+  {
+    "id": 398396,
+    "name": "ОмскОб2014",
+    "code": "RU000A0JUX89",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/omsk-region-2014",
+    "child": 1
+  },
+  {
+    "id": 464579,
+    "name": "ОмскОб2016",
+    "code": "RU000A0JWX87",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/omsk-region-2016",
+    "child": 1
+  },
+  {
+    "id": 81856,
+    "name": "ОргСинт ао",
+    "code": "KZOS",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/oao-organicheskiy-sintez-ao",
+    "child": 1
+  },
+  {
+    "id": 81857,
+    "name": "ОргСинт ап",
+    "code": "KZOSP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/oao-organicheskiy-sintez-ap",
+    "child": 1
+  },
+  {
+    "id": 176182,
+    "name": "ОренОбл 02",
+    "code": "RU000A0JTZK1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/orenburgskaya-obl-35001",
+    "child": 1
+  },
+  {
+    "id": 388499,
+    "name": "Оренб35002",
+    "code": "RU000A0JUPE3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/orenburg-reg-35002",
+    "child": 1
+  },
+  {
+    "id": 434655,
+    "name": "Оренб35003",
+    "code": "RU000A0JVM81",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/orenburg-reg-35003",
+    "child": 1
+  },
+  {
+    "id": 490849,
+    "name": "Оренб35004",
+    "code": "RU000A0ZYKH5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/orenburg-reg-35004",
+    "child": 1
+  },
+  {
+    "id": 490089,
+    "name": "ОрлОбл2017",
+    "code": "RU000A0ZYGM3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oryol-region-2017",
+    "child": 1
+  },
+  {
+    "id": 179999,
+    "name": "ОткрФКББ03",
+    "code": "RU000A0JRZ74",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-03",
+    "child": 1
+  },
+  {
+    "id": 82937,
+    "name": "ОткрФКББ03",
+    "code": "RU000A0JSQF2",
+    "market": 600,
+    "decp": 2,
+    "url": "moex-obligacii/otkritie-fk-bank-bo-03",
+    "child": 1
+  },
+  {
+    "id": 179942,
+    "name": "ОткрФКББ05",
+    "code": "RU000A0JTZT2",
+    "market": 600,
+    "decp": 2,
+    "url": "moex-obligacii/otkritie-fk-bank-bo-05",
+    "child": 1
+  },
+  {
+    "id": 407203,
+    "name": "ОткрФКББ05",
+    "code": "RU000A0JV1D5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-05",
+    "child": 1
+  },
+  {
+    "id": 414312,
+    "name": "ОткрФКББ08",
+    "code": "RU000A0JUFQ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-08",
+    "child": 1
+  },
+  {
+    "id": 414315,
+    "name": "ОткрФКББ09",
+    "code": "RU000A0JVBN2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-09",
+    "child": 1
+  },
+  {
+    "id": 419676,
+    "name": "ОткрФКББ12",
+    "code": "RU000A0JVGJ9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-12",
+    "child": 1
+  },
+  {
+    "id": 419677,
+    "name": "ОткрФКББ13",
+    "code": "RU000A0JVGK7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-13",
+    "child": 1
+  },
+  {
+    "id": 408629,
+    "name": "ОткрФКББ7",
+    "code": "RU000A0JV5U0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-07",
+    "child": 1
+  },
+  {
+    "id": 483544,
+    "name": "ОткрФКББП3",
+    "code": "RU000A0JXTN0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/binbank-bo-p03",
+    "child": 1
+  },
+  {
+    "id": 414354,
+    "name": "ОткрФКБОП2",
+    "code": "RU000A0JVC67",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/otkritie-fk-bank-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 152779,
+    "name": "ОткрХОЛ 4",
+    "code": "RU000A0JTH82",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/otkritie-holding-04",
+    "child": 1
+  },
+  {
+    "id": 449049,
+    "name": "ПГК 05",
+    "code": "RU000A0JVUL6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pervaya-gruzovaya-company-5",
+    "child": 1
+  },
+  {
+    "id": 456378,
+    "name": "ПЕРЕСВ БП5",
+    "code": "RU000A0JWM15",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/akb-ao-peresvet-bo-p05",
+    "child": 1
+  },
+  {
+    "id": 460020,
+    "name": "ПИК БО-1",
+    "code": "RU000A0JWP38",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pik-group-bo-1",
+    "child": 1
+  },
+  {
+    "id": 457423,
+    "name": "ПИК БО-7",
+    "code": "RU000A0JWP46",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pik-group-bo-7",
+    "child": 1
+  },
+  {
+    "id": 474140,
+    "name": "ПИК БО-П01",
+    "code": "RU000A0JXK40",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pik-group-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 477025,
+    "name": "ПИК БО-П02",
+    "code": "RU000A0JXQ93",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pik-group-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 485286,
+    "name": "ПИК БО-П03",
+    "code": "RU000A0JXY44",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pik-group-bo-p03",
+    "child": 1
+  },
+  {
+    "id": 496414,
+    "name": "ПИК БО-П07",
+    "code": "RU000A0ZZBJ7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pik-group-bo-p07",
+    "child": 1
+  },
+  {
+    "id": 18654,
+    "name": "ПИК ао",
+    "code": "PIKK",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/pik",
+    "child": 1
+  },
+  {
+    "id": 18654,
+    "name": "ПИК ао",
+    "code": "PIKK",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/pik",
+    "child": 1
+  },
+  {
+    "id": 462633,
+    "name": "ПКБ БО-01",
+    "code": "RU000A0JWWG0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/first-collection-bureau-bo-01",
+    "child": 1
+  },
+  {
+    "id": 451625,
+    "name": "ПКТ 01",
+    "code": "RU000A0JW0S4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fct-01",
+    "child": 1
+  },
+  {
+    "id": 453751,
+    "name": "ПКТ 02",
+    "code": "RU000A0JW5E3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fct-02",
+    "child": 1
+  },
+  {
+    "id": 454339,
+    "name": "ПКТ 03",
+    "code": "RU000A0JWBP5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fct-03",
+    "child": 1
+  },
+  {
+    "id": 497155,
+    "name": "ПР-Лиз 1P1",
+    "code": "RU000A0ZZFP5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pr-leasing-llc-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 502286,
+    "name": "ПР-Лиз 1P2",
+    "code": "RU000A0ZZX35",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pr-leasing-llc-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 35247,
+    "name": "ПРОТЕК ао",
+    "code": "PRTK",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/protek-ao",
+    "child": 1
+  },
+  {
+    "id": 81896,
+    "name": "ПавлАвт ао",
+    "code": "PAZA",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/pavlovo-bus-ao",
+    "child": 1
+  },
+  {
+    "id": 16909,
+    "name": "ПермьЭнС-п",
+    "code": "PMSBP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/perm-energosbyt-pref",
+    "child": 1
+  },
+  {
+    "id": 16908,
+    "name": "ПермьЭнСб",
+    "code": "PMSB",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/perm-energosbyt",
+    "child": 1
+  },
+  {
+    "id": 496383,
+    "name": "ПионЛизБП1",
+    "code": "RU000A0ZZAT8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pioneer-leasing-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 874154,
+    "name": "ПионЛизБП2",
+    "code": "RU000A1006C3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pioneer-leasing-bo-p02",
+    "child": 1
+  },
+  {
+    "id": 494908,
+    "name": "Пионер 1P3",
+    "code": "RU000A0ZZ547",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pioneer-group-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 81241,
+    "name": "Плазмек",
+    "code": "PLSM",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/plazmek-ao",
+    "child": 1
+  },
+  {
+    "id": 386451,
+    "name": "ПолиплБ01",
+    "code": "RU000A0JUK84",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/polyplast-oao-bo-01",
+    "child": 1
+  },
+  {
+    "id": 464981,
+    "name": "ПолиплБ03",
+    "code": "RU000A0JWYK8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/polyplast-ao-bo-03",
+    "child": 1
+  },
+  {
+    "id": 17123,
+    "name": "Полюс",
+    "code": "PLZL",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/polus-zoloto",
+    "child": 1
+  },
+  {
+    "id": 434658,
+    "name": "ПолюсБ1",
+    "code": "RU000A0JVMD0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/polyus-gold-bo-01",
+    "child": 1
+  },
+  {
+    "id": 434656,
+    "name": "ПолюсБ2",
+    "code": "RU000A0JVM99",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/polyus-gold-oao-bo-02",
+    "child": 1
+  },
+  {
+    "id": 434657,
+    "name": "ПолюсБ3",
+    "code": "RU000A0JVMB4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/polyus-gold-oao-bo-03",
+    "child": 1
+  },
+  {
+    "id": 481094,
+    "name": "ПочтаРБ1P3",
+    "code": "RU000A0JXS59",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/russian-post-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 495112,
+    "name": "ПочтаРБ1P5",
+    "code": "RU000A0ZZ5J9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/russian-post-bo-001p-05",
+    "child": 1
+  },
+  {
+    "id": 152649,
+    "name": "ПочтаРос04",
+    "code": "RU000A0JT8T0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pochta-rossii-04",
+    "child": 1
+  },
+  {
+    "id": 455069,
+    "name": "ПочтаРосБ2",
+    "code": "RU000A0JWGV2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/russian-post-bo-02",
+    "child": 1
+  },
+  {
+    "id": 460324,
+    "name": "ПочтаРосБ3",
+    "code": "RU000A0JWTL6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/russian-post-bo-03",
+    "child": 1
+  },
+  {
+    "id": 153040,
+    "name": "Правоурми1",
+    "code": "RU000A0JTER1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/pravourmiiskoe-ooo-01",
+    "child": 1
+  },
+  {
+    "id": 181318,
+    "name": "ПраймФ 01",
+    "code": "RU000A0JU179",
+    "market": 12,
+    "decp": 2,
+    "url": "moex-obligacii/prime-finance-llc-01",
+    "child": 1
+  },
+  {
+    "id": 80818,
+    "name": "Приморье",
+    "code": "PRMB",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/akb-primorye",
+    "child": 1
+  },
+  {
+    "id": 398237,
+    "name": "ПромсвбБО6",
+    "code": "RU000A0JUVF8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/promsvyazbank-pao-bo-06",
+    "child": 1
+  },
+  {
+    "id": 454294,
+    "name": "ПромсвбБО8",
+    "code": "RU000A0JUVG6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/promsvyazbank-pao-bo-08",
+    "child": 1
+  },
+  {
+    "id": 454749,
+    "name": "ПромсвбБП1",
+    "code": "RU000A0JWEU9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/promsvyazbank-pao-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 74779,
+    "name": "РБК ао",
+    "code": "RBCM",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/rbk-ao",
+    "child": 1
+  },
+  {
+    "id": 181934,
+    "name": "РГС СК ао",
+    "code": "RGSS",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/jsc-rosgosstrakh-ao",
+    "child": 1
+  },
+  {
+    "id": 175617,
+    "name": "РЕСО-Гар03",
+    "code": "RU000A0JTTV1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/reso-garantia-03",
+    "child": 1
+  },
+  {
+    "id": 581855,
+    "name": "РЕСОЛизБП2",
+    "code": "RU000A1004S4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/reso-leasing-bo-p-02",
+    "child": 1
+  },
+  {
+    "id": 492344,
+    "name": "РЖД 1Р-05R",
+    "code": "RU000A0ZYU05",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-bo-1p-05r",
+    "child": 1
+  },
+  {
+    "id": 496213,
+    "name": "РЖД 1Р-07R",
+    "code": "RU000A0ZZ9R4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-bo-1p-07r",
+    "child": 1
+  },
+  {
+    "id": 497222,
+    "name": "РЖД 1Р-08R",
+    "code": "RU000A0ZZGT5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-bo-001p-08r",
+    "child": 1
+  },
+  {
+    "id": 499797,
+    "name": "РЖД 1Р-09R",
+    "code": "RU000A0ZZRY2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-bo-001p-09r",
+    "child": 1
+  },
+  {
+    "id": 502256,
+    "name": "РЖД 1Р-10R",
+    "code": "RU000A0ZZX19",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-bo-001p-10r",
+    "child": 1
+  },
+  {
+    "id": 573247,
+    "name": "РЖД 1Р-12R",
+    "code": "RU000A1002C2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-bo-001p-12r",
+    "child": 1
+  },
+  {
+    "id": 475852,
+    "name": "РЖД Б01P1R",
+    "code": "RU000A0JXN05",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-bo-001p-01r",
+    "child": 1
+  },
+  {
+    "id": 476915,
+    "name": "РЖД Б01P2R",
+    "code": "RU000A0JXQ44",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-bo-001p-02r",
+    "child": 1
+  },
+  {
+    "id": 485571,
+    "name": "РЖД Б01P4R",
+    "code": "RU000A0JXZB2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-bo-001p-04r",
+    "child": 1
+  },
+  {
+    "id": 450143,
+    "name": "РЖД БО-02",
+    "code": "RU000A0JVW71",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-bo-02",
+    "child": 1
+  },
+  {
+    "id": 454419,
+    "name": "РЖД БО-07",
+    "code": "RU000A0JWC82",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-bo-07",
+    "child": 1
+  },
+  {
+    "id": 455195,
+    "name": "РЖД БО-17",
+    "code": "RU000A0JWHU2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-bo-17",
+    "child": 1
+  },
+  {
+    "id": 21760,
+    "name": "РЖД-12обл",
+    "code": "RU000A0JQ5Q5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-12",
+    "child": 1
+  },
+  {
+    "id": 22538,
+    "name": "РЖД-18 обл",
+    "code": "RU000A0JQ7X7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-18",
+    "child": 1
+  },
+  {
+    "id": 22539,
+    "name": "РЖД-19 обл",
+    "code": "RU000A0JQ7Z2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-19",
+    "child": 1
+  },
+  {
+    "id": 22863,
+    "name": "РЖД-23 обл",
+    "code": "RU000A0JQRD9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-23",
+    "child": 1
+  },
+  {
+    "id": 175609,
+    "name": "РЖД-28 обл",
+    "code": "RU000A0JTU85",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-28",
+    "child": 1
+  },
+  {
+    "id": 182254,
+    "name": "РЖД-30 обл",
+    "code": "RU000A0JUAH8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-30",
+    "child": 1
+  },
+  {
+    "id": 82898,
+    "name": "РЖД-32 обл",
+    "code": "RU000A0JSGV0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzhd-32",
+    "child": 1
+  },
+  {
+    "id": 472117,
+    "name": "РЖД-41 обл",
+    "code": "RU000A0JX1S1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rzd-41",
+    "child": 1
+  },
+  {
+    "id": 456553,
+    "name": "РН БАНК 01",
+    "code": "RU000A0JWMJ5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rn-bank-01",
+    "child": 1
+  },
+  {
+    "id": 476066,
+    "name": "РН БАНК1Р1",
+    "code": "RU000A0JXNV6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rn-bank-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 488717,
+    "name": "РН БАНК1Р2",
+    "code": "RU000A0ZYCQ3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rn-bank-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 501225,
+    "name": "РН БАНК1Р3",
+    "code": "RU000A0ZZUK5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rn-bank-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 578752,
+    "name": "РН БАНК1Р4",
+    "code": "RU000A1003Q0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rn-bank-bo-001p-04",
+    "child": 1
+  },
+  {
+    "id": 81933,
+    "name": "РН-ЗапСиб",
+    "code": "CHGZ",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/chernogorneft-ao",
+    "child": 1
+  },
+  {
+    "id": 874105,
+    "name": "РОЛЬФ 1Р01",
+    "code": "RU000A1005Y9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rolf-llc-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 20637,
+    "name": "РОСИНТЕРао",
+    "code": "ROST",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/rosinter-restaurants-ao",
+    "child": 1
+  },
+  {
+    "id": 182204,
+    "name": "РСГ-ФинБ01",
+    "code": "RU000A0JUAG0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rsg-finance-bo-01",
+    "child": 1
+  },
+  {
+    "id": 456279,
+    "name": "РСГ-ФинБ10",
+    "code": "RU000A0JWLJ7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rsg-finance-bo-10",
+    "child": 1
+  },
+  {
+    "id": 487612,
+    "name": "РСГ-ФинБ3",
+    "code": "RU000A0ZYA74",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rsg-finance-bo-03",
+    "child": 1
+  },
+  {
+    "id": 491146,
+    "name": "РСГ-ФинБ4",
+    "code": "RU000A0ZYLB6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rsg-finance-bo-04",
+    "child": 1
+  },
+  {
+    "id": 458665,
+    "name": "РСГ-ФинБ6",
+    "code": "RU000A0JWQX7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rsg-finance-bo-6",
+    "child": 1
+  },
+  {
+    "id": 494891,
+    "name": "РСХБ 01Т1",
+    "code": "RU000A0ZZ4T1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/russian-agricultural-bank-01t1",
+    "child": 1
+  },
+  {
+    "id": 461879,
+    "name": "РСХБ 08Т1",
+    "code": "RU000A0JWV63",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-08t1",
+    "child": 1
+  },
+  {
+    "id": 22880,
+    "name": "РСХБ 10",
+    "code": "RU000A0JQS09",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-10",
+    "child": 1
+  },
+  {
+    "id": 22881,
+    "name": "РСХБ 11",
+    "code": "RU000A0JQS74",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-11",
+    "child": 1
+  },
+  {
+    "id": 81126,
+    "name": "РСХБ 14",
+    "code": "RU000A0JRLE8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-14",
+    "child": 1
+  },
+  {
+    "id": 82599,
+    "name": "РСХБ 16",
+    "code": "RU000A0JS6N8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-16",
+    "child": 1
+  },
+  {
+    "id": 152477,
+    "name": "РСХБ 17",
+    "code": "RU000A0JT7M7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-17",
+    "child": 1
+  },
+  {
+    "id": 152478,
+    "name": "РСХБ 18",
+    "code": "RU000A0JT874",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-18",
+    "child": 1
+  },
+  {
+    "id": 181303,
+    "name": "РСХБ 21",
+    "code": "RU000A0JU1Q8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-21",
+    "child": 1
+  },
+  {
+    "id": 182203,
+    "name": "РСХБ 23",
+    "code": "RU000A0JUAD7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-23",
+    "child": 1
+  },
+  {
+    "id": 22726,
+    "name": "РСХБ 9",
+    "code": "RU000A0JQK72",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-09",
+    "child": 1
+  },
+  {
+    "id": 475712,
+    "name": "РСХБ БО 1P",
+    "code": "RU000A0JXMQ8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-bo-01p",
+    "child": 1
+  },
+  {
+    "id": 483873,
+    "name": "РСХБ БО 2P",
+    "code": "RU000A0JXUC1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-bo-02p",
+    "child": 1
+  },
+  {
+    "id": 488571,
+    "name": "РСХБ БО 3P",
+    "code": "RU000A0ZYBT9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-bo-03p",
+    "child": 1
+  },
+  {
+    "id": 490433,
+    "name": "РСХБ БО 4P",
+    "code": "RU000A0ZYJ42",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-bo-04p",
+    "child": 1
+  },
+  {
+    "id": 493443,
+    "name": "РСХБ БО-5Р",
+    "code": "RU000A0ZYXJ4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-bo-05p",
+    "child": 1
+  },
+  {
+    "id": 499230,
+    "name": "РСХБ БО-6Р",
+    "code": "RU000A0ZZPZ3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-jsc-bo-06p",
+    "child": 1
+  },
+  {
+    "id": 398288,
+    "name": "РСХБ БО13",
+    "code": "RU000A0JUW31",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-bo-13",
+    "child": 1
+  },
+  {
+    "id": 398297,
+    "name": "РСХБ БО14",
+    "code": "RU000A0JUW72",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-bo-14",
+    "child": 1
+  },
+  {
+    "id": 407490,
+    "name": "РСХБ БО15",
+    "code": "RU000A0JV3R1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselhozbank-bo-15",
+    "child": 1
+  },
+  {
+    "id": 450157,
+    "name": "РСХБ БО9",
+    "code": "RU000A0JVWB3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosselkhozbank-bo-09",
+    "child": 1
+  },
+  {
+    "id": 471037,
+    "name": "РСЭКСМБ1Р1",
+    "code": "RU000A0JX2M2",
+    "market": 12,
+    "decp": 4,
+    "url": "moex-obligacii/eximbank-of-russia-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 454564,
+    "name": "РУСАЛБрБ01",
+    "code": "RU000A0JWDN6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rusal-bratsk-bo-01",
+    "child": 1
+  },
+  {
+    "id": 17713,
+    "name": "Распадская",
+    "code": "RASP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/raspadskaya",
+    "child": 1
+  },
+  {
+    "id": 495176,
+    "name": "РедСофт1P1",
+    "code": "RU000A0ZZ695",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/red-soft-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 501636,
+    "name": "Роделен1Р1",
+    "code": "RU000A0ZZV52",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/lc-rodelen-jsc-bo-1p1",
+    "child": 1
+  },
+  {
+    "id": 16866,
+    "name": "Росбанк ао",
+    "code": "ROSB",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/rosbank",
+    "child": 1
+  },
+  {
+    "id": 483931,
+    "name": "Росбанк2P2",
+    "code": "RU000A0JXUH0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosbank-bo-002p-02",
+    "child": 1
+  },
+  {
+    "id": 573191,
+    "name": "Росбанк2P4",
+    "code": "RU000A100220",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosbank-bo-002p-04",
+    "child": 1
+  },
+  {
+    "id": 470881,
+    "name": "РосбанкБ11",
+    "code": "RU000A0JX2F6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosbank-bo-11",
+    "child": 1
+  },
+  {
+    "id": 470880,
+    "name": "РосбанкБ12",
+    "code": "RU000A0JX2D1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosbank-bo-12",
+    "child": 1
+  },
+  {
+    "id": 455194,
+    "name": "РосбанкБ14",
+    "code": "RU000A0JWHT4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosbank-bo-14",
+    "child": 1
+  },
+  {
+    "id": 17273,
+    "name": "Роснефть",
+    "code": "ROSN",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/rosneft",
+    "child": 1
+  },
+  {
+    "id": 17273,
+    "name": "Роснефть",
+    "code": "ROSN",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/rosneft",
+    "child": 1
+  },
+  {
+    "id": 17290,
+    "name": "Роснефть",
+    "code": "ROSN",
+    "market": 8,
+    "decp": 5,
+    "url": "raspiski/rosneft",
+    "child": 1
+  },
+  {
+    "id": 152541,
+    "name": "Роснефть04",
+    "code": "RU000A0JT940",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-04",
+    "child": 1
+  },
+  {
+    "id": 152542,
+    "name": "Роснефть05",
+    "code": "RU000A0JT965",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-05",
+    "child": 1
+  },
+  {
+    "id": 175605,
+    "name": "Роснефть07",
+    "code": "RU000A0JTS06",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-07",
+    "child": 1
+  },
+  {
+    "id": 175606,
+    "name": "Роснефть08",
+    "code": "RU000A0JTS22",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-08",
+    "child": 1
+  },
+  {
+    "id": 385399,
+    "name": "РоснефтьБ1",
+    "code": "RU000A0JUFU0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-01",
+    "child": 1
+  },
+  {
+    "id": 383948,
+    "name": "РоснефтьБ5",
+    "code": "RU000A0JUCS1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-05",
+    "child": 1
+  },
+  {
+    "id": 383947,
+    "name": "РоснефтьБ6",
+    "code": "RU000A0JUCR3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-06",
+    "child": 1
+  },
+  {
+    "id": 385400,
+    "name": "РоснефтьБ7",
+    "code": "RU000A0JUFV8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-07",
+    "child": 1
+  },
+  {
+    "id": 467459,
+    "name": "Роснфт1P1",
+    "code": "RU000A0JX132",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-001p-01",
+    "child": 1
+  },
+  {
+    "id": 471107,
+    "name": "Роснфт1P2",
+    "code": "RU000A0JX355",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-001p-02",
+    "child": 1
+  },
+  {
+    "id": 477284,
+    "name": "Роснфт1P4",
+    "code": "RU000A0JXQK2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-001p-04",
+    "child": 1
+  },
+  {
+    "id": 484969,
+    "name": "Роснфт1P6",
+    "code": "RU000A0JXXD3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-001p-06",
+    "child": 1
+  },
+  {
+    "id": 484970,
+    "name": "Роснфт1P7",
+    "code": "RU000A0JXXE1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-001p-07",
+    "child": 1
+  },
+  {
+    "id": 488716,
+    "name": "Роснфт1P8",
+    "code": "RU000A0ZYCP5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-001p-08",
+    "child": 1
+  },
+  {
+    "id": 490462,
+    "name": "Роснфт2P1",
+    "code": "RU000A0ZYJH7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-002p-01",
+    "child": 1
+  },
+  {
+    "id": 490463,
+    "name": "Роснфт2P2",
+    "code": "RU000A0ZYJJ3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-002p-02",
+    "child": 1
+  },
+  {
+    "id": 492245,
+    "name": "Роснфт2P4",
+    "code": "RU000A0ZYT40",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-002p-04",
+    "child": 1
+  },
+  {
+    "id": 492732,
+    "name": "Роснфт2P5",
+    "code": "RU000A0ZYVU5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosneft-002p-05",
+    "child": 1
+  },
+  {
+    "id": 407224,
+    "name": "РоснфтБО10",
+    "code": "RU000A0JV235",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-10",
+    "child": 1
+  },
+  {
+    "id": 407223,
+    "name": "РоснфтБО14",
+    "code": "RU000A0JV227",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-14",
+    "child": 1
+  },
+  {
+    "id": 407228,
+    "name": "РоснфтБО15",
+    "code": "RU000A0JV276",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-15",
+    "child": 1
+  },
+  {
+    "id": 407230,
+    "name": "РоснфтБО16",
+    "code": "RU000A0JV292",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-16",
+    "child": 1
+  },
+  {
+    "id": 407229,
+    "name": "РоснфтБО17",
+    "code": "RU000A0JV284",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-17",
+    "child": 1
+  },
+  {
+    "id": 408632,
+    "name": "РоснфтБО18",
+    "code": "RU000A0JV763",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-18",
+    "child": 1
+  },
+  {
+    "id": 408634,
+    "name": "РоснфтБО19",
+    "code": "RU000A0JV789",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-19",
+    "child": 1
+  },
+  {
+    "id": 408636,
+    "name": "РоснфтБО20",
+    "code": "RU000A0JV7A8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-20",
+    "child": 1
+  },
+  {
+    "id": 408639,
+    "name": "РоснфтБО21",
+    "code": "RU000A0JV7D2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-21",
+    "child": 1
+  },
+  {
+    "id": 408638,
+    "name": "РоснфтБО22",
+    "code": "RU000A0JV7C4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-22",
+    "child": 1
+  },
+  {
+    "id": 407231,
+    "name": "РоснфтБО24",
+    "code": "RU000A0JV2A9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-24",
+    "child": 1
+  },
+  {
+    "id": 408635,
+    "name": "РоснфтБО25",
+    "code": "RU000A0JV797",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-25",
+    "child": 1
+  },
+  {
+    "id": 407219,
+    "name": "РоснфтБО3",
+    "code": "RU000A0JV1X3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-03",
+    "child": 1
+  },
+  {
+    "id": 407221,
+    "name": "РоснфтБО8",
+    "code": "RU000A0JV201",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-08",
+    "child": 1
+  },
+  {
+    "id": 407222,
+    "name": "РоснфтБО9",
+    "code": "RU000A0JV219",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/oao-nk-rosneft-bo-09",
+    "child": 1
+  },
+  {
+    "id": 484321,
+    "name": "РоссетБ1Р1",
+    "code": "RU000A0JXVM8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rosseti-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 20971,
+    "name": "Россети ао",
+    "code": "RSTI",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/rosseti-ao",
+    "child": 1
+  },
+  {
+    "id": 20972,
+    "name": "Россети ап",
+    "code": "RSTIP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/rosseti-ap",
+    "child": 1
+  },
+  {
+    "id": 7,
+    "name": "Ростел -ао",
+    "code": "RTKM",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/rostelecom",
+    "child": 1
+  },
+  {
+    "id": 7,
+    "name": "Ростел -ао",
+    "code": "RTKM",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/rostelecom",
+    "child": 1
+  },
+  {
+    "id": 15,
+    "name": "Ростел -ап",
+    "code": "RTKMP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/rostelecom-pref",
+    "child": 1
+  },
+  {
+    "id": 15,
+    "name": "Ростел -ап",
+    "code": "RTKMP",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/rostelecom-pref",
+    "child": 1
+  },
+  {
+    "id": 460325,
+    "name": "Ростел1P1R",
+    "code": "RU000A0JWTN2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rostelecom-001p-01r",
+    "child": 1
+  },
+  {
+    "id": 476856,
+    "name": "Ростел1P2R",
+    "code": "RU000A0JXPN8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rostelecom-001p-02r",
+    "child": 1
+  },
+  {
+    "id": 490030,
+    "name": "Ростел1P3R",
+    "code": "RU000A0ZYG52",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rostelecom-001p-03r",
+    "child": 1
+  },
+  {
+    "id": 493543,
+    "name": "Ростел1P4R",
+    "code": "RU000A0ZYYE3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rostelecom-001p-04r",
+    "child": 1
+  },
+  {
+    "id": 419526,
+    "name": "РостелБО-1",
+    "code": "RU000A0JVFC6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rostelecom-bo-01",
+    "child": 1
+  },
+  {
+    "id": 496227,
+    "name": "РоялКапБО1",
+    "code": "RU000A0ZZ9X2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/royal-capital-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 35238,
+    "name": "РусАква ао",
+    "code": "AQUA",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/russkaya-akvakul-tura",
+    "child": 1
+  },
+  {
+    "id": 454437,
+    "name": "РусГидрБП4",
+    "code": "RU000A0JWCB3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rushydro-bo-p04",
+    "child": 1
+  },
+  {
+    "id": 483624,
+    "name": "РусГидрБП5",
+    "code": "RU000A0JXTQ3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rushydro-bo-p05",
+    "child": 1
+  },
+  {
+    "id": 20266,
+    "name": "РусГидро",
+    "code": "HYDR",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/rusgidro",
+    "child": 1
+  },
+  {
+    "id": 20266,
+    "name": "РусГидро",
+    "code": "HYDR",
+    "market": 200,
+    "decp": 4,
+    "url": "moex-akcii/rusgidro",
+    "child": 1
+  },
+  {
+    "id": 22358,
+    "name": "РусГидро",
+    "code": "HYDR",
+    "market": 8,
+    "decp": 5,
+    "url": "raspiski/rushydro",
+    "child": 1
+  },
+  {
+    "id": 80902,
+    "name": "РусГидро02",
+    "code": "RU000A0JRFP6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rusgidro-oao-02",
+    "child": 1
+  },
+  {
+    "id": 414546,
+    "name": "РусГидро09",
+    "code": "RU000A0JVD25",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rusgidro-oao-09",
+    "child": 1
+  },
+  {
+    "id": 66893,
+    "name": "Русгрэйн",
+    "code": "RUGR",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/rusgrain-holding-ao",
+    "child": 1
+  },
+  {
+    "id": 181316,
+    "name": "Русолово",
+    "code": "ROLO",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/rusolovo-oao-ao",
+    "child": 1
+  },
+  {
+    "id": 20712,
+    "name": "Русполимет",
+    "code": "RUSP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/ruspolimet-ao",
+    "child": 1
+  },
+  {
+    "id": 465236,
+    "name": "РуссНфт ао",
+    "code": "RNFT",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/russneft-nk",
+    "child": 1
+  },
+  {
+    "id": 474576,
+    "name": "РусфинБ1P2",
+    "code": "RU000A0JXLE6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/rusfinans-bank-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 16455,
+    "name": "РязЭнСб",
+    "code": "RZSB",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/ryazan-energo-sbyt",
+    "child": 1
+  },
+  {
+    "id": 491359,
+    "name": "САФМАР ао",
+    "code": "SFIN",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/safmar-fin-invest-ao",
+    "child": 1
+  },
+  {
+    "id": 878019,
+    "name": "СГБ 01",
+    "code": "RU000A1006X9",
+    "market": 2,
+    "decp": 2,
+    "url": "mmvb-arhiv/severgazbank-01-kv",
+    "child": 1
+  },
+  {
+    "id": 878020,
+    "name": "СГБ 02",
+    "code": "RU000A1006Y7",
+    "market": 2,
+    "decp": 2,
+    "url": "mmvb-arhiv/severgazbank-02-kv",
+    "child": 1
+  },
+  {
+    "id": 878021,
+    "name": "СГБ 03",
+    "code": "RU000A1006Z4",
+    "market": 2,
+    "decp": 2,
+    "url": "mmvb-arhiv/severgazbank-03-kv",
+    "child": 1
+  },
+  {
+    "id": 20900,
+    "name": "СЗПароход",
+    "code": "SZRP",
+    "market": 16,
+    "decp": 4,
+    "url": "mmvb-arhiv/severo-zapadnoe-parokhodstvo",
+    "child": 1
+  },
+  {
+    "id": 22401,
+    "name": "СЗПароход",
+    "code": "SZPR",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/severo-zapadnoe-parokhodstvo",
+    "child": 1
+  },
+  {
+    "id": 454323,
+    "name": "СИБУРХол10",
+    "code": "RU000A0JWBK6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sibur-holding-10",
+    "child": 1
+  },
+  {
+    "id": 457301,
+    "name": "СИБУРХол11",
+    "code": "RU000A0JWNV8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sibur-holding-11",
+    "child": 1
+  },
+  {
+    "id": 484251,
+    "name": "СИНХФБО1P1",
+    "code": "RU000A0JXVE5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/svyazinvnefhim-finance-b001p01",
+    "child": 1
+  },
+  {
+    "id": 20892,
+    "name": "СМЗ-ао",
+    "code": "MGNZ",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/smz",
+    "child": 1
+  },
+  {
+    "id": 16080,
+    "name": "СОЛЛЕРС",
+    "code": "SVAV",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/sollers",
+    "child": 1
+  },
+  {
+    "id": 16080,
+    "name": "СОЛЛЕРС",
+    "code": "SVAV",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/sollers",
+    "child": 1
+  },
+  {
+    "id": 490460,
+    "name": "СПбГО35001",
+    "code": "RU000A0ZYHX8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sankt-peterburg-35001",
+    "child": 1
+  },
+  {
+    "id": 82446,
+    "name": "СПбТел 04",
+    "code": "RU000A0JS3M7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sankt-pet-telekom-oao-04",
+    "child": 1
+  },
+  {
+    "id": 82643,
+    "name": "СПбТел 07",
+    "code": "RU000A0JRVU3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sankt-pet-telekom-oao-07",
+    "child": 1
+  },
+  {
+    "id": 497198,
+    "name": "СУЭК-Ф1P2R",
+    "code": "RU000A0ZZG93",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/suek-finance-bo-001p-02r",
+    "child": 1
+  },
+  {
+    "id": 181344,
+    "name": "СУЭК-Фин05",
+    "code": "RU000A0JU336",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/suek-finans-ooo-05",
+    "child": 1
+  },
+  {
+    "id": 462755,
+    "name": "СУЭКФБ1P1R",
+    "code": "RU000A0JWWW7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/suek-finans-bo-001p-01r",
+    "child": 1
+  },
+  {
+    "id": 181311,
+    "name": "СамарОбл 9",
+    "code": "RU000A0JU2H5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samara-reg-09",
+    "child": 1
+  },
+  {
+    "id": 388615,
+    "name": "СамарОбл10",
+    "code": "RU000A0JUQP7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samara-reg-10",
+    "child": 1
+  },
+  {
+    "id": 420743,
+    "name": "СамарОбл11",
+    "code": "RU000A0JVK00",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samara-reg-11",
+    "child": 1
+  },
+  {
+    "id": 456413,
+    "name": "СамарОбл12",
+    "code": "RU000A0JWM56",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samara-reg-12",
+    "child": 1
+  },
+  {
+    "id": 482299,
+    "name": "СамарОбл13",
+    "code": "RU000A0JXT41",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samara-reg-13",
+    "child": 1
+  },
+  {
+    "id": 496212,
+    "name": "СамарОбл14",
+    "code": "RU000A0ZZ9P8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samara-region-35014",
+    "child": 1
+  },
+  {
+    "id": 70,
+    "name": "СамарЭн-ап",
+    "code": "SAGOP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/samaraenergo-pref",
+    "child": 1
+  },
+  {
+    "id": 464980,
+    "name": "Самолет 01",
+    "code": "RU000A0JWYJ0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samolet-group-of-companies-01",
+    "child": 1
+  },
+  {
+    "id": 517654,
+    "name": "Самолет1P4",
+    "code": "RU000A0ZZZZ2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/samolet-group-bo-p04",
+    "child": 1
+  },
+  {
+    "id": 81892,
+    "name": "СаратНПЗ-п",
+    "code": "KRKNP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/saratovskiy-npz-ap",
+    "child": 1
+  },
+  {
+    "id": 490046,
+    "name": "СаратОбл17",
+    "code": "RU000A0ZYG60",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/saratov-region-2017",
+    "child": 1
+  },
+  {
+    "id": 11,
+    "name": "СаратЭн-ао",
+    "code": "SARE",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/saratovenergo-ao",
+    "child": 1
+  },
+  {
+    "id": 24,
+    "name": "СаратЭн-ап",
+    "code": "SAREP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/saratovenergo-pref",
+    "child": 1
+  },
+  {
+    "id": 473000,
+    "name": "Сахэнер ао",
+    "code": "SLEN",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/sakhalinenergo-ao",
+    "child": 1
+  },
+  {
+    "id": 496494,
+    "name": "СберБ Б12R",
+    "code": "RU000A0ZZBN9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-bo-001p-12r",
+    "child": 1
+  },
+  {
+    "id": 496943,
+    "name": "СберБ Б16R",
+    "code": "RU000A0ZZE20",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-bo-001p-16r",
+    "child": 1
+  },
+  {
+    "id": 502210,
+    "name": "СберБ Б52R",
+    "code": "RU000A0ZZWZ9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-001p-52r",
+    "child": 1
+  },
+  {
+    "id": 875174,
+    "name": "СберБ Б78R",
+    "code": "RU000A100758",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-ios-001p-78r",
+    "child": 1
+  },
+  {
+    "id": 455146,
+    "name": "СберБ БО18",
+    "code": "RU000A0JWH46",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-pao-bo-18",
+    "child": 1
+  },
+  {
+    "id": 478941,
+    "name": "СберБ БО19",
+    "code": "RU000A0JXRW5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-bo-19",
+    "child": 1
+  },
+  {
+    "id": 460867,
+    "name": "СберБ БО37",
+    "code": "RU000A0JWUE9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-bo-37",
+    "child": 1
+  },
+  {
+    "id": 488740,
+    "name": "СберБ БО3R",
+    "code": "RU000A0ZYBS1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-bo-001p-03r",
+    "child": 1
+  },
+  {
+    "id": 492730,
+    "name": "СберБ БО4R",
+    "code": "RU000A0ZYUJ0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-bo-001p-04r",
+    "child": 1
+  },
+  {
+    "id": 495470,
+    "name": "СберБ БО6R",
+    "code": "RU000A0ZZ117",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sberbank-bo-001p-06r",
+    "child": 1
+  },
+  {
+    "id": 3,
+    "name": "Сбербанк",
+    "code": "SBER",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/sberbank",
+    "child": 1
+  },
+  {
+    "id": 3,
+    "name": "Сбербанк",
+    "code": "SBER",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/sberbank",
+    "child": 1
+  },
+  {
+    "id": 81075,
+    "name": "Сбербанк",
+    "code": "SBER",
+    "market": 8,
+    "decp": 5,
+    "url": "raspiski/sberbank",
+    "child": 1
+  },
+  {
+    "id": 23,
+    "name": "Сбербанк-п",
+    "code": "SBERP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/sberbank-pref",
+    "child": 1
+  },
+  {
+    "id": 23,
+    "name": "Сбербанк-п",
+    "code": "SBERP",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/sberbank-pref",
+    "child": 1
+  },
+  {
+    "id": 488935,
+    "name": "СвердлОб4",
+    "code": "RU000A0ZYDU3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sverdlovskaya-obl-04",
+    "child": 1
+  },
+  {
+    "id": 499724,
+    "name": "СвердлОбл5",
+    "code": "RU000A0ZZQH9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sverdlovsk-region-05",
+    "child": 1
+  },
+  {
+    "id": 499439,
+    "name": "СветофорП1",
+    "code": "RU000A0ZZQ59",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/svetofor-group-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 16136,
+    "name": "СевСт-ао",
+    "code": "CHMF",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/severstal-ao",
+    "child": 1
+  },
+  {
+    "id": 16136,
+    "name": "СевСт-ао",
+    "code": "CHMF",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/severstal-ao",
+    "child": 1
+  },
+  {
+    "id": 81360,
+    "name": "Селигдар",
+    "code": "SELG",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/seligdar",
+    "child": 1
+  },
+  {
+    "id": 82610,
+    "name": "Селигдар-п",
+    "code": "SELGP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/seligdar-ap",
+    "child": 1
+  },
+  {
+    "id": 456377,
+    "name": "СибГосБ1P1",
+    "code": "RU000A0JWLX8",
+    "market": 12,
+    "decp": 2,
+    "url": "moex-obligacii/siberian-gostinec-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 436091,
+    "name": "СибГост ао",
+    "code": "SIBG",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/pao-sibirskiy-gostinec-ao",
+    "child": 1
+  },
+  {
+    "id": 460634,
+    "name": "СилМашБО-3",
+    "code": "RU000A0JWTW3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/silovye-mashiny-bo-03",
+    "child": 1
+  },
+  {
+    "id": 460635,
+    "name": "СилМашБО-4",
+    "code": "RU000A0JWTX1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/silovye-mashiny-bo-04",
+    "child": 1
+  },
+  {
+    "id": 467456,
+    "name": "СилМашБО-5",
+    "code": "RU000A0JX0Y1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/power-machines-bo-05",
+    "child": 1
+  },
+  {
+    "id": 468862,
+    "name": "СилМашБО-6",
+    "code": "RU000A0JX1A9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/power-machines-bo-06",
+    "child": 1
+  },
+  {
+    "id": 448996,
+    "name": "СистемБ1P1",
+    "code": "RU000A0JVUK8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/afk-systema-001p-01",
+    "child": 1
+  },
+  {
+    "id": 464982,
+    "name": "СистемБ1P4",
+    "code": "RU000A0JWYQ5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/afk-systema-001p-04",
+    "child": 1
+  },
+  {
+    "id": 466699,
+    "name": "СистемБ1P5",
+    "code": "RU000A0JWZY6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/afk-systema-001p-05",
+    "child": 1
+  },
+  {
+    "id": 475854,
+    "name": "СистемБ1P6",
+    "code": "RU000A0JXN21",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/afk-systema-001p-06",
+    "child": 1
+  },
+  {
+    "id": 491980,
+    "name": "СистемБ1P7",
+    "code": "RU000A0ZYQY7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/afk-systema-001p-07",
+    "child": 1
+  },
+  {
+    "id": 19715,
+    "name": "Система ао",
+    "code": "AFKS",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/afk-sistema",
+    "child": 1
+  },
+  {
+    "id": 19715,
+    "name": "Система ао",
+    "code": "AFKS",
+    "market": 200,
+    "decp": 3,
+    "url": "moex-akcii/afk-sistema",
+    "child": 1
+  },
+  {
+    "id": 492882,
+    "name": "Система1P8",
+    "code": "RU000A0ZYWU3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sistema-pjsfc-001p-08",
+    "child": 1
+  },
+  {
+    "id": 592963,
+    "name": "Система1P9",
+    "code": "RU000A1005L6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sistema-pjsfc-001p-09",
+    "child": 1
+  },
+  {
+    "id": 15723,
+    "name": "Слав-ЯНОСп",
+    "code": "JNOSP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/slavneft-janos-pref",
+    "child": 1
+  },
+  {
+    "id": 15722,
+    "name": "Славн-ЯНОС",
+    "code": "JNOS",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/slavneft-janos",
+    "child": 1
+  },
+  {
+    "id": 875218,
+    "name": "Славнеф1Р2",
+    "code": "RU000A1007H0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/slavneft-001p-02",
+    "child": 1
+  },
+  {
+    "id": 385374,
+    "name": "Совком БО1",
+    "code": "RU000A0JUFL9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sovkombank-b0-01",
+    "child": 1
+  },
+  {
+    "id": 457424,
+    "name": "Совком БО3",
+    "code": "RU000A0JWPA7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sovkombank-b0-03",
+    "child": 1
+  },
+  {
+    "id": 490487,
+    "name": "Совком БО5",
+    "code": "RU000A0ZYJR6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sovkombank-b0-05",
+    "child": 1
+  },
+  {
+    "id": 496941,
+    "name": "СолЛизБО01",
+    "code": "RU000A0ZZEA0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/solid-leasing-bo-001-01",
+    "child": 1
+  },
+  {
+    "id": 498457,
+    "name": "СолЛизБО02",
+    "code": "RU000A0ZZMQ9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/solid-leasing-bo-001-02",
+    "child": 1
+  },
+  {
+    "id": 473505,
+    "name": "СоллФин 01",
+    "code": "RU000A0JXFC2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sollers-finance-ob-01",
+    "child": 1
+  },
+  {
+    "id": 505365,
+    "name": "СоллФин1P1",
+    "code": "RU000A0ZZZN8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sollers-finance-bo-p01",
+    "child": 1
+  },
+  {
+    "id": 398274,
+    "name": "СоломЛес01",
+    "code": "RU000A0JUVT9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/solomensky-lesozavod-01",
+    "child": 1
+  },
+  {
+    "id": 181799,
+    "name": "СтаврКрай2",
+    "code": "RU000A0JU9G2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/stavropolsky-kray-02",
+    "child": 1
+  },
+  {
+    "id": 464856,
+    "name": "СтаврКрай3",
+    "code": "RU000A0JWY29",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/stavropolsky-kray-03",
+    "child": 1
+  },
+  {
+    "id": 20087,
+    "name": "СтаврЭнСб",
+    "code": "STSB",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/stavropolenergosbyt",
+    "child": 1
+  },
+  {
+    "id": 20088,
+    "name": "СтаврЭнСбп",
+    "code": "STSBP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/stavropolenergosbyt-pref",
+    "child": 1
+  },
+  {
+    "id": 4,
+    "name": "Сургнфгз",
+    "code": "SNGS",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/surgut",
+    "child": 1
+  },
+  {
+    "id": 4,
+    "name": "Сургнфгз",
+    "code": "SNGS",
+    "market": 200,
+    "decp": 3,
+    "url": "moex-akcii/surgut",
+    "child": 1
+  },
+  {
+    "id": 13,
+    "name": "Сургнфгз-п",
+    "code": "SNGSP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/surgut-pref",
+    "child": 1
+  },
+  {
+    "id": 13,
+    "name": "Сургнфгз-п",
+    "code": "SNGSP",
+    "market": 200,
+    "decp": 3,
+    "url": "moex-akcii/surgut-pref",
+    "child": 1
+  },
+  {
+    "id": 489239,
+    "name": "СэтлГрБ1P1",
+    "code": "RU000A0ZYEQ9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/setl-grupp-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 81914,
+    "name": "ТАНТАЛ ао",
+    "code": "TANL",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/tantal-ao",
+    "child": 1
+  },
+  {
+    "id": 18382,
+    "name": "ТГК-1",
+    "code": "TGKA",
+    "market": 1,
+    "decp": 6,
+    "url": "moex-akcii/tgk-1",
+    "child": 1
+  },
+  {
+    "id": 18176,
+    "name": "ТГК-14",
+    "code": "TGKN",
+    "market": 1,
+    "decp": 5,
+    "url": "moex-akcii/tgk-14",
+    "child": 1
+  },
+  {
+    "id": 17597,
+    "name": "ТГК-2",
+    "code": "TGKB",
+    "market": 1,
+    "decp": 6,
+    "url": "moex-akcii/tgk-2",
+    "child": 1
+  },
+  {
+    "id": 181670,
+    "name": "ТГК-2 БО-2",
+    "code": "RU000A0JU7L6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tgk-2-bo-02",
+    "child": 1
+  },
+  {
+    "id": 18189,
+    "name": "ТГК-2 ап",
+    "code": "TGKBP",
+    "market": 1,
+    "decp": 5,
+    "url": "moex-akcii/tgk-2-pref",
+    "child": 1
+  },
+  {
+    "id": 540450,
+    "name": "ТКБМСП1 01",
+    "code": "RU000A0ZZYV4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/spe-tkb-sme-1-ob-01-kv",
+    "child": 1
+  },
+  {
+    "id": 81906,
+    "name": "ТКЗКК ап",
+    "code": "KRKOP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/tkz-krasny-kotelshchik-ap",
+    "child": 1
+  },
+  {
+    "id": 74614,
+    "name": "ТКСМ ао",
+    "code": "TKSM",
+    "market": 16,
+    "decp": 4,
+    "url": "mmvb-arhiv/tksm-ao",
+    "child": 1
+  },
+  {
+    "id": 74746,
+    "name": "ТКСМ ао",
+    "code": "TUCH",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/tuchkovsk-csm",
+    "child": 1
+  },
+  {
+    "id": 488718,
+    "name": "ТКХ БП1",
+    "code": "RU000A0ZYCR1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transkomplektholding-bo-p1",
+    "child": 1
+  },
+  {
+    "id": 454507,
+    "name": "ТМК БО-5",
+    "code": "RU000A0JWCM0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tmk-bo-05",
+    "child": 1
+  },
+  {
+    "id": 476685,
+    "name": "ТМК БО-6",
+    "code": "RU000A0JXPD9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tmk-bo-06",
+    "child": 1
+  },
+  {
+    "id": 481161,
+    "name": "ТМК БО-7",
+    "code": "RU000A0JXSF8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tmk-bo-07",
+    "child": 1
+  },
+  {
+    "id": 18441,
+    "name": "ТМК ао",
+    "code": "TRMK",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/tmk-ao",
+    "child": 1
+  },
+  {
+    "id": 18441,
+    "name": "ТМК ао",
+    "code": "TRMK",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/tmk-ao",
+    "child": 1
+  },
+  {
+    "id": 16546,
+    "name": "ТНСэнВорон",
+    "code": "VRSB",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/voronezh-energosbyt-comp",
+    "child": 1
+  },
+  {
+    "id": 16330,
+    "name": "ТНСэнМарЭл",
+    "code": "MISB",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/marienergosbyt-ao",
+    "child": 1
+  },
+  {
+    "id": 16615,
+    "name": "ТНСэнНН ао",
+    "code": "NNSB",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/nizhegorodskaya-sbyt-comp",
+    "child": 1
+  },
+  {
+    "id": 16616,
+    "name": "ТНСэнНН ап",
+    "code": "NNSBP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/nizhegorodskaya-sbyt-comp-pref",
+    "child": 1
+  },
+  {
+    "id": 16783,
+    "name": "ТНСэнРст",
+    "code": "RTSB",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/rostovenergosbyt-ao",
+    "child": 1
+  },
+  {
+    "id": 16784,
+    "name": "ТНСэнРст-п",
+    "code": "RTSBP",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/rostovenergosbyt-pref",
+    "child": 1
+  },
+  {
+    "id": 16342,
+    "name": "ТНСэнЯр",
+    "code": "YRSB",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/yaroslav-sbyt-company-ao",
+    "child": 1
+  },
+  {
+    "id": 16797,
+    "name": "ТРК ао",
+    "code": "TORS",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/tomsk-raspredelit-komp-ao",
+    "child": 1
+  },
+  {
+    "id": 16798,
+    "name": "ТРК ап",
+    "code": "TORSP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/tomsk-raspredelit-komp-ap",
+    "child": 1
+  },
+  {
+    "id": 16265,
+    "name": "ТамбЭнСб",
+    "code": "TASB",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/tambov-energosbyt-company",
+    "child": 1
+  },
+  {
+    "id": 16266,
+    "name": "ТамбЭнСб-п",
+    "code": "TASBP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/tambov-energosbyt-comp-pref",
+    "child": 1
+  },
+  {
+    "id": 460236,
+    "name": "ТамбовОбл2",
+    "code": "RU000A0JWT75",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tambov-region-findpt-35002",
+    "child": 1
+  },
+  {
+    "id": 484276,
+    "name": "ТамбовОбл3",
+    "code": "RU000A0JXVH8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tambov-region-findpt-35003",
+    "child": 1
+  },
+  {
+    "id": 825,
+    "name": "Татнфт 3ао",
+    "code": "TATN",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/tatneft-3",
+    "child": 1
+  },
+  {
+    "id": 825,
+    "name": "Татнфт 3ао",
+    "code": "TATN",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/tatneft-3",
+    "child": 1
+  },
+  {
+    "id": 826,
+    "name": "Татнфт 3ап",
+    "code": "TATNP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/tatneft-pref",
+    "child": 1
+  },
+  {
+    "id": 826,
+    "name": "Татнфт 3ап",
+    "code": "TATNP",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/tatneft-pref",
+    "child": 1
+  },
+  {
+    "id": 18371,
+    "name": "Таттел. ао",
+    "code": "TTLK",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/tattelekom",
+    "child": 1
+  },
+  {
+    "id": 456592,
+    "name": "ТелХолПБО1",
+    "code": "RU000A0JWMM9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ao-er-telekom-holding",
+    "child": 1
+  },
+  {
+    "id": 477283,
+    "name": "ТелХолПБО3",
+    "code": "RU000A0JXQJ4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/er-telekom-holding-pbo-3",
+    "child": 1
+  },
+  {
+    "id": 21002,
+    "name": "Телеграф",
+    "code": "CNTL",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/centrlnyi-telegraf",
+    "child": 1
+  },
+  {
+    "id": 81575,
+    "name": "Телеграф-п",
+    "code": "CNTLP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/centrlnyi-telegraf-ap",
+    "child": 1
+  },
+  {
+    "id": 477024,
+    "name": "Тинькофф1R",
+    "code": "RU000A0JXQ85",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tinkoff-bank-bo-p01-01r",
+    "child": 1
+  },
+  {
+    "id": 456396,
+    "name": "ТинькоффБ7",
+    "code": "RU000A0JWM31",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tinkoff-bank-bo-07",
+    "child": 1
+  },
+  {
+    "id": 490148,
+    "name": "ТойотаБ1P1",
+    "code": "RU000A0ZYHH1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ao-toyota-bank-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 578818,
+    "name": "ТойотаБ1P2",
+    "code": "RU000A100436",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/ao-toyota-bank-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 407283,
+    "name": "ТомскАдм 5",
+    "code": "RU000A0JV2H4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tomskadm-05",
+    "child": 1
+  },
+  {
+    "id": 453129,
+    "name": "ТомскОб 55",
+    "code": "RU000A0JW1K9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tomsk-reg-55",
+    "child": 1
+  },
+  {
+    "id": 74561,
+    "name": "ТрансК ао",
+    "code": "TRCN",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/transkonteiner-ao",
+    "child": 1
+  },
+  {
+    "id": 491714,
+    "name": "ТрансКонБ1",
+    "code": "RU000A0ZYPG6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transkonteiner-bo-01",
+    "child": 1
+  },
+  {
+    "id": 460321,
+    "name": "ТрансКонБ2",
+    "code": "RU000A0JWTH4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transkonteiner-bo-02",
+    "child": 1
+  },
+  {
+    "id": 489118,
+    "name": "ТрансФ1P04",
+    "code": "RU000A0ZYEB1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transfin-m-001p-04",
+    "child": 1
+  },
+  {
+    "id": 456376,
+    "name": "ТрансФБО27",
+    "code": "RU000A0JWLW0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transfin-m-bo-27",
+    "child": 1
+  },
+  {
+    "id": 398135,
+    "name": "ТрансФБО28",
+    "code": "RU000A0JUUG8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transfin-m-bo-28",
+    "child": 1
+  },
+  {
+    "id": 398342,
+    "name": "ТрансФБО32",
+    "code": "RU000A0JUWW1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transfin-m-bo-32",
+    "child": 1
+  },
+  {
+    "id": 398392,
+    "name": "ТрансФБО33",
+    "code": "RU000A0JUX30",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transfin-m-bo-33",
+    "child": 1
+  },
+  {
+    "id": 398298,
+    "name": "ТрансФБО34",
+    "code": "RU000A0JUWA7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transfin-m-bo-34",
+    "child": 1
+  },
+  {
+    "id": 499798,
+    "name": "ТрансмхПБ2",
+    "code": "RU000A0ZZRZ9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transmashholding-pbo-02",
+    "child": 1
+  },
+  {
+    "id": 473033,
+    "name": "ТрансмшПБ1",
+    "code": "RU000A0JXD07",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transmashholding-pbo-01",
+    "child": 1
+  },
+  {
+    "id": 22721,
+    "name": "Транснф 03",
+    "code": "RU000A0JQCR1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-03",
+    "child": 1
+  },
+  {
+    "id": 1012,
+    "name": "Транснф ап",
+    "code": "TRNFP",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/transneft-pref",
+    "child": 1
+  },
+  {
+    "id": 1012,
+    "name": "Транснф ап",
+    "code": "TRNFP",
+    "market": 200,
+    "decp": 0,
+    "url": "moex-akcii/transneft-pref",
+    "child": 1
+  },
+  {
+    "id": 454655,
+    "name": "ТранснфБО5",
+    "code": "RU000A0JWEB9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-05",
+    "child": 1
+  },
+  {
+    "id": 459504,
+    "name": "ТранснфБО6",
+    "code": "RU000A0JWS92",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-06",
+    "child": 1
+  },
+  {
+    "id": 455760,
+    "name": "ТрнфБО1P1",
+    "code": "RU000A0JWK90",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-01-001p",
+    "child": 1
+  },
+  {
+    "id": 494604,
+    "name": "ТрнфБО1P10",
+    "code": "RU000A0ZZ349",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-10",
+    "child": 1
+  },
+  {
+    "id": 457697,
+    "name": "ТрнфБО1P3",
+    "code": "RU000A0JWPW1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 461928,
+    "name": "ТрнфБО1P4",
+    "code": "RU000A0JWVC1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-04",
+    "child": 1
+  },
+  {
+    "id": 472907,
+    "name": "ТрнфБО1P5",
+    "code": "RU000A0JXC24",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-05",
+    "child": 1
+  },
+  {
+    "id": 475538,
+    "name": "ТрнфБО1P6",
+    "code": "RU000A0JXM97",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-06",
+    "child": 1
+  },
+  {
+    "id": 477175,
+    "name": "ТрнфБО1P7",
+    "code": "RU000A0JXQD7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-07",
+    "child": 1
+  },
+  {
+    "id": 488874,
+    "name": "ТрнфБО1P8",
+    "code": "RU000A0ZYDD9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-08",
+    "child": 1
+  },
+  {
+    "id": 492534,
+    "name": "ТрнфБО1P9",
+    "code": "RU000A0ZYUS1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/transneft-bo-001p-09",
+    "child": 1
+  },
+  {
+    "id": 449093,
+    "name": "ТулОбл2015",
+    "code": "RU000A0JVUW3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/tulskiy-region-2015",
+    "child": 1
+  },
+  {
+    "id": 181077,
+    "name": "УВЗ Б01",
+    "code": "RU000A0JU0S6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uralvagonzavod-npk-bo-01",
+    "child": 1
+  },
+  {
+    "id": 181078,
+    "name": "УВЗ Б02",
+    "code": "RU000A0JU0T4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uralvagonzavod-npk-bo-02",
+    "child": 1
+  },
+  {
+    "id": 436835,
+    "name": "Удмурт2015",
+    "code": "RU000A0JVSY3",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/udmurtia-2015",
+    "child": 1
+  },
+  {
+    "id": 181637,
+    "name": "Удмуртия-7",
+    "code": "RU000A0JU740",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/udmurtia-7",
+    "child": 1
+  },
+  {
+    "id": 481095,
+    "name": "УрКаПБО3P",
+    "code": "RU000A0JXS75",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uralkali-pbo-03-p",
+    "child": 1
+  },
+  {
+    "id": 496226,
+    "name": "УрКаПБО4P",
+    "code": "RU000A0ZZ9W4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uralkali-pbo-04-p",
+    "child": 1
+  },
+  {
+    "id": 500470,
+    "name": "УрКаПБО5P",
+    "code": "RU000A0ZZT80",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/uralkali-pbo-05-p",
+    "child": 1
+  },
+  {
+    "id": 82611,
+    "name": "УрКузница",
+    "code": "URKZ",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/uralskaya-kuznica-ao",
+    "child": 1
+  },
+  {
+    "id": 81953,
+    "name": "УралСиб ао",
+    "code": "USBN",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/bank-uralsib-ao",
+    "child": 1
+  },
+  {
+    "id": 19623,
+    "name": "Уркалий-ао",
+    "code": "URKA",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/uralkaliy",
+    "child": 1
+  },
+  {
+    "id": 19623,
+    "name": "Уркалий-ао",
+    "code": "URKA",
+    "market": 200,
+    "decp": 2,
+    "url": "moex-akcii/uralkaliy",
+    "child": 1
+  },
+  {
+    "id": 455956,
+    "name": "ФПК 01",
+    "code": "RU000A0JWKN1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fpc-01",
+    "child": 1
+  },
+  {
+    "id": 476914,
+    "name": "ФПК 1P-01",
+    "code": "RU000A0JXQ28",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fpc-1p-01",
+    "child": 1
+  },
+  {
+    "id": 491149,
+    "name": "ФПК 1P-02",
+    "code": "RU000A0ZYLF7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fpc-1p-02",
+    "child": 1
+  },
+  {
+    "id": 492890,
+    "name": "ФПК 1P-03",
+    "code": "RU000A0ZYX69",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fpc-1p-03",
+    "child": 1
+  },
+  {
+    "id": 478880,
+    "name": "ФПКГарИнP1",
+    "code": "RU000A0JXRT1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kn-fpk-garant-invest-001p-01",
+    "child": 1
+  },
+  {
+    "id": 491107,
+    "name": "ФПКГарИнP3",
+    "code": "RU000A0ZYL55",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/kn-fpk-garant-invest-001p-03",
+    "child": 1
+  },
+  {
+    "id": 488896,
+    "name": "ФСК ЕЭС Б3",
+    "code": "RU000A0ZYDH0",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fsk-ees-bo-03",
+    "child": 1
+  },
+  {
+    "id": 490461,
+    "name": "ФСК ЕЭС Б4",
+    "code": "RU000A0ZYJ91",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fsk-ees-bo-04",
+    "child": 1
+  },
+  {
+    "id": 20509,
+    "name": "ФСК ЕЭС ао",
+    "code": "FEES",
+    "market": 1,
+    "decp": 5,
+    "url": "moex-akcii/fsk-ees",
+    "child": 1
+  },
+  {
+    "id": 20509,
+    "name": "ФСК ЕЭС ао",
+    "code": "FEES",
+    "market": 200,
+    "decp": 5,
+    "url": "moex-akcii/fsk-ees",
+    "child": 1
+  },
+  {
+    "id": 74462,
+    "name": "ФСК ЕЭС-06",
+    "code": "RU000A0JR1Y7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fsk-ees-06",
+    "child": 1
+  },
+  {
+    "id": 81135,
+    "name": "ФСК ЕЭС-13",
+    "code": "RU000A0JRL96",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fsk-ees-13",
+    "child": 1
+  },
+  {
+    "id": 82953,
+    "name": "ФСК ЕЭС-22",
+    "code": "RU000A0JSQ58",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fsk-ees-22",
+    "child": 1
+  },
+  {
+    "id": 152329,
+    "name": "ФСК ЕЭС-25",
+    "code": "RU000A0JT2K2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fsk-ees-25",
+    "child": 1
+  },
+  {
+    "id": 499725,
+    "name": "ФСК ЕЭС1Р1",
+    "code": "RU000A0ZZQN7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/fgc-ues-bo-001p-01r",
+    "child": 1
+  },
+  {
+    "id": 453131,
+    "name": "ФинАвиа 01",
+    "code": "RU000A0JVZF7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/finans-avia-01",
+    "child": 1
+  },
+  {
+    "id": 453132,
+    "name": "ФинАвиа 02",
+    "code": "RU000A0JVZG5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/finans-avia-02",
+    "child": 1
+  },
+  {
+    "id": 497208,
+    "name": "ФолксвБ1P2",
+    "code": "RU000A0ZZGE7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volkswagen-bank-rus-bo-001p-02",
+    "child": 1
+  },
+  {
+    "id": 578740,
+    "name": "ФолксвБ1P3",
+    "code": "RU000A1003L1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/volkswagen-bank-rus-bo-001p-03",
+    "child": 1
+  },
+  {
+    "id": 81114,
+    "name": "ФосАгро ао",
+    "code": "PHOR",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/phosagro-ao",
+    "child": 1
+  },
+  {
+    "id": 81114,
+    "name": "ФосАгро ао",
+    "code": "PHOR",
+    "market": 200,
+    "decp": 0,
+    "url": "moex-akcii/phosagro-ao",
+    "child": 1
+  },
+  {
+    "id": 398314,
+    "name": "ХМАО 09",
+    "code": "RU000A0JUWB5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/hmao-yugra-ob-34001",
+    "child": 1
+  },
+  {
+    "id": 470835,
+    "name": "ХМАО 10",
+    "code": "RU000A0JX215",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/hmao-yugra-ob-35001",
+    "child": 1
+  },
+  {
+    "id": 491094,
+    "name": "ХМАО 11",
+    "code": "RU000A0ZYKW4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/hmao-yugra-ob-35002",
+    "child": 1
+  },
+  {
+    "id": 181722,
+    "name": "Хакас2013",
+    "code": "RU000A0JU8R1",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/hakasiya-2013-35003",
+    "child": 1
+  },
+  {
+    "id": 398440,
+    "name": "Хакас2014",
+    "code": "RU000A0JUXW9",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/hakasiya-2014-35004",
+    "child": 1
+  },
+  {
+    "id": 448994,
+    "name": "Хакас2015",
+    "code": "RU000A0JVUH4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/khakasia-2015-35005",
+    "child": 1
+  },
+  {
+    "id": 464677,
+    "name": "Хакас2016",
+    "code": "RU000A0JWXQ7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/khakasia-2016-35006",
+    "child": 1
+  },
+  {
+    "id": 81940,
+    "name": "Химпром ап",
+    "code": "HIMCP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/himprom-ap",
+    "child": 1
+  },
+  {
+    "id": 19095,
+    "name": "ЦМТ ао",
+    "code": "WTCM",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/cmt",
+    "child": 1
+  },
+  {
+    "id": 19096,
+    "name": "ЦМТ ап",
+    "code": "WTCMP",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/cmt-pref",
+    "child": 1
+  },
+  {
+    "id": 497146,
+    "name": "ЦППК 1P-02",
+    "code": "RU000A0ZZFH2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/central-epc-1p-02",
+    "child": 1
+  },
+  {
+    "id": 83121,
+    "name": "ЧЗПСН ао",
+    "code": "PRFN",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/czpsn-profnasteel",
+    "child": 1
+  },
+  {
+    "id": 496880,
+    "name": "ЧЗПСН-П Б1",
+    "code": "RU000A0ZZD39",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/profnastil-bo-01",
+    "child": 1
+  },
+  {
+    "id": 21000,
+    "name": "ЧКПЗ ао",
+    "code": "CHKZ",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/ckpz",
+    "child": 1
+  },
+  {
+    "id": 21001,
+    "name": "ЧМК ао",
+    "code": "CHMK",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/cmk",
+    "child": 1
+  },
+  {
+    "id": 471401,
+    "name": "ЧТПЗ 1P1",
+    "code": "RU000A0JX439",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/chelpipe-001p-01",
+    "child": 1
+  },
+  {
+    "id": 473882,
+    "name": "ЧТПЗ 1P2",
+    "code": "RU000A0JXHE4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/chelpipe-001p-02",
+    "child": 1
+  },
+  {
+    "id": 475689,
+    "name": "ЧТПЗ 1P3",
+    "code": "RU000A0JXME4",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/chelpipe-001p-03",
+    "child": 1
+  },
+  {
+    "id": 483748,
+    "name": "ЧТПЗ 1P4",
+    "code": "RU000A0JXTY7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/chelpipe-001p-04",
+    "child": 1
+  },
+  {
+    "id": 20999,
+    "name": "ЧТПЗ ао",
+    "code": "CHEP",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/chtpz",
+    "child": 1
+  },
+  {
+    "id": 16712,
+    "name": "ЧелябЭС ао",
+    "code": "CLSB",
+    "market": 16,
+    "decp": 4,
+    "url": "moex-akcii/chelyab-energo-sbyt-ao",
+    "child": 1
+  },
+  {
+    "id": 16713,
+    "name": "ЧелябЭС ап",
+    "code": "CLSBP",
+    "market": 16,
+    "decp": 4,
+    "url": "moex-akcii/chelyab-energo-sbyt-ap",
+    "child": 1
+  },
+  {
+    "id": 20125,
+    "name": "ЧеркизГ-ао",
+    "code": "GCHE",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/gruppa-cherkizovo-ao",
+    "child": 1
+  },
+  {
+    "id": 20125,
+    "name": "ЧеркизГ-ао",
+    "code": "GCHE",
+    "market": 200,
+    "decp": 1,
+    "url": "moex-akcii/gruppa-cherkizovo-ao",
+    "child": 1
+  },
+  {
+    "id": 81934,
+    "name": "Электрцинк",
+    "code": "ELTZ",
+    "market": 1,
+    "decp": 1,
+    "url": "moex-akcii/elektrotsink-ao",
+    "child": 1
+  },
+  {
+    "id": 493858,
+    "name": "ЭлемЛиз1P1",
+    "code": "RU000A0ZZ0L6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/element-leasing-bo-001p-01",
+    "child": 1
+  },
+  {
+    "id": 454405,
+    "name": "ЭлемЛизБО4",
+    "code": "RU000A0JWC66",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/element-lizing-bo-04",
+    "child": 1
+  },
+  {
+    "id": 16440,
+    "name": "ЭнелРос ао",
+    "code": "ENRU",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/enel-russia",
+    "child": 1
+  },
+  {
+    "id": 20321,
+    "name": "ЭнергияРКК",
+    "code": "RKKE",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/rkk-energia",
+    "child": 1
+  },
+  {
+    "id": 550232,
+    "name": "ЮАИЗ 1-001",
+    "code": "RU000A1001L5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/yuaiz-bo-1-001",
+    "child": 1
+  },
+  {
+    "id": 15522,
+    "name": "ЮТэйр ао",
+    "code": "UTAR",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/utair-aviacompany",
+    "child": 1
+  },
+  {
+    "id": 20717,
+    "name": "ЮжКузб. ао",
+    "code": "UKUZ",
+    "market": 1,
+    "decp": 0,
+    "url": "moex-akcii/uzhnyi-kuzbass",
+    "child": 1
+  },
+  {
+    "id": 18584,
+    "name": "Юнипро ао",
+    "code": "UPRO",
+    "market": 1,
+    "decp": 3,
+    "url": "moex-akcii/e-on-russia",
+    "child": 1
+  },
+  {
+    "id": 18584,
+    "name": "Юнипро ао",
+    "code": "UPRO",
+    "market": 200,
+    "decp": 3,
+    "url": "moex-akcii/e-on-russia",
+    "child": 1
+  },
+  {
+    "id": 467457,
+    "name": "ЯНАО-2016",
+    "code": "RU000A0JX0Z8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/yamal-nenets-ao-2016",
+    "child": 1
+  },
+  {
+    "id": 81917,
+    "name": "ЯТЭК ао",
+    "code": "YAKG",
+    "market": 1,
+    "decp": 2,
+    "url": "moex-akcii/yatek-ao",
+    "child": 1
+  },
+  {
+    "id": 18493,
+    "name": "Якут-07 об",
+    "code": "RU000A0JP6V4",
+    "market": 600,
+    "decp": 2,
+    "url": "moex-obligacii/sakha-yakutia-07",
+    "child": 1
+  },
+  {
+    "id": 419496,
+    "name": "Якут-07 об",
+    "code": "RU000A0JVEH8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sakha-yakutia-07",
+    "child": 1
+  },
+  {
+    "id": 35203,
+    "name": "Якут-09 об",
+    "code": "RU000A0JQTH6",
+    "market": 600,
+    "decp": 2,
+    "url": "moex-obligacii/sakha-yakutia-09",
+    "child": 1
+  },
+  {
+    "id": 478494,
+    "name": "Якут-09 об",
+    "code": "RU000A0JXR43",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/sakha-yakutia-09",
+    "child": 1
+  },
+  {
+    "id": 495444,
+    "name": "Якут-10 об",
+    "code": "RU000A0ZZ7E6",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/republic-of-sakha-yakutia-10",
+    "child": 1
+  },
+  {
+    "id": 14044,
+    "name": "Якут-10 об",
+    "code": "RU0008826888",
+    "market": 600,
+    "decp": 4,
+    "url": "moex-obligacii/sakha-yakutia-10",
+    "child": 1
+  },
+  {
+    "id": 80914,
+    "name": "Якут-10 об",
+    "code": "RU000A0JRHB2",
+    "market": 600,
+    "decp": 2,
+    "url": "moex-obligacii/sakha-yakutia-10",
+    "child": 1
+  },
+  {
+    "id": 498710,
+    "name": "Якут-11 об",
+    "code": "RU000A0ZZNJ2",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/republic-of-sakha-yakutia-11",
+    "child": 1
+  },
+  {
+    "id": 82623,
+    "name": "Якут-11 об",
+    "code": "RU000A0JS850",
+    "market": 600,
+    "decp": 2,
+    "url": "moex-obligacii/sakha-yakutia-11",
+    "child": 1
+  },
+  {
+    "id": 20523,
+    "name": "Якутскэн-п",
+    "code": "YAENP",
+    "market": 16,
+    "decp": 4,
+    "url": "mmvb-arhiv/yakutskenergo-ap",
+    "child": 1
+  },
+  {
+    "id": 81769,
+    "name": "Якутскэн-п",
+    "code": "YKENP",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/yakutskenergo-ap",
+    "child": 1
+  },
+  {
+    "id": 15903,
+    "name": "Якутскэнрг",
+    "code": "YAEN",
+    "market": 16,
+    "decp": 4,
+    "url": "mmvb-arhiv/yakutskenergo",
+    "child": 1
+  },
+  {
+    "id": 81766,
+    "name": "Якутскэнрг",
+    "code": "YKEN",
+    "market": 1,
+    "decp": 4,
+    "url": "moex-akcii/yakutskenergo",
+    "child": 1
+  },
+  {
+    "id": 456375,
+    "name": "ЯмалСтИн 1",
+    "code": "RU000A0JWKL5",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/yamalstroyinvest-01",
+    "child": 1
+  },
+  {
+    "id": 388568,
+    "name": "ЯрОбл 2014",
+    "code": "RU000A0JUQF8",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/yaroslavl-region-2014",
+    "child": 1
+  },
+  {
+    "id": 455193,
+    "name": "ЯрОбл 2016",
+    "code": "RU000A0JWHN7",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/yaroslavl-region-2016",
+    "child": 1
+  },
+  {
+    "id": 481121,
+    "name": "ЯрОбл 2017",
+    "code": "RU000A0JXS83",
+    "market": 2,
+    "decp": 2,
+    "url": "moex-obligacii/yaroslavl-region-2017",
+    "child": 1
+  }
+]
