@@ -75,15 +75,13 @@ class JobsSpider(Spider):
         mt = int('%02d' % end_date.month)
         yt = '%04d' % end_date.year
 
-        # for d in daterange(date(st_year, st_month, st_day), date(end_year, end_month, end_day)):
         for instrument in self.instruments:
-
             params = [
                 ('market', instrument['market']),
                 ('em', instrument['id']),
                 ('code', instrument['code']),
                 ('apply', '0'),
-                ('df', df),
+                ('df', df), # df, mf, yf, from, dt, mt, yt, to – это параметры времени.
                 ('mf', mf - 1),
                 ('yf', yf),
                 ('from', start_date.isoformat().replace('-', '.')),
@@ -91,19 +89,20 @@ class JobsSpider(Spider):
                 ('mt', mt - 1),
                 ('yt', yt),
                 ('to', end_date.isoformat().replace('-', '.')),
-                ('p', '2'),
+                ('p', '2'), # p — период котировок (тики, 1 мин., 5 мин., 10 мин., 15 мин., 30 мин., 1 час, 1 день, 1 неделя, 1 месяц)
                 ('f', instrument['code'] + '_' + start_date.isoformat()),
-                ('e', '.csv'),
+                ('e', '.csv'), # e – расширение получаемого файла; возможны варианты — .txt либо .csv
                 ('cn', instrument['code']),
-                ('dtf', '1'),
-                ('tmf', '1'),
-                ('MSOR', '0'),
+                ('dtf', '1'), # dtf — формат даты (1 — ггггммдд, 2 — ггммдд, 3 — ддммгг, 4 — дд/мм/гг, 5 — мм/дд/гг)
+                ('tmf', '1'), # tmf — формат времени (1 — ччммсс, 2 — ччмм, 3 — чч: мм: сс, 4 — чч: мм)
+                ('MSOR', '0'), # MSOR — выдавать время (0 — начала свечи, 1 — окончания свечи)
                 ('mstime', 'on'),
-                ('mstimever', '1'),
-                ('sep', '1'),
-                ('sep2', '1'),
-                ('datf', '1'),
-                ('at', '1'),
+                ('mstimever', '1'), # mstimever — выдавать время (НЕ московское — mstimever=0; московское — mstime='on', mstimever='1')
+                ('sep', '1'), # sep — параметр разделитель полей (1 — запятая (,), 2 — точка (.), 3 — точка с запятой (;), 4 — табуляция (»), 5 — пробел ( ))
+                ('sep2', '1'), # sep2 — параметр разделитель разрядов (1 — нет, 2 — точка (.), 3 — запятая (,), 4 — пробел ( ), 5 — кавычка ('))
+                ('datf', '1'), # datf — Перечень получаемых данных (#1 — TICKER, PER, DATE, TIME, OPEN, HIGH, LOW, CLOSE, VOL; #2 — TICKER, PER, DATE, TIME, OPEN, HIGH, LOW, CLOSE; #3 — TICKER, PER, DATE, TIME, CLOSE, VOL; #4 — TICKER, PER, DATE, TIME, CLOSE; #5 — DATE, TIME, OPEN, HIGH, LOW, CLOSE, VOL; #6 — DATE, TIME, LAST, VOL, ID, OPER).
+                ('at', '1'), # at — добавлять заголовок в файл (0 — нет, 1 — да)
+                # ('fsp', '1'), - заполнять периоды без сделок
             ]
             headers = {
                 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/77.0.3865.90 Chrome/77.0.3865.90 Safari/537.36',
