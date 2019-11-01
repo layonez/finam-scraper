@@ -102,7 +102,7 @@ class JobsSpider(Spider):
                 ('sep2', '1'), # sep2 — параметр разделитель разрядов (1 — нет, 2 — точка (.), 3 — запятая (,), 4 — пробел ( ), 5 — кавычка ('))
                 ('datf', '1'), # datf — Перечень получаемых данных (#1 — TICKER, PER, DATE, TIME, OPEN, HIGH, LOW, CLOSE, VOL; #2 — TICKER, PER, DATE, TIME, OPEN, HIGH, LOW, CLOSE; #3 — TICKER, PER, DATE, TIME, CLOSE, VOL; #4 — TICKER, PER, DATE, TIME, CLOSE; #5 — DATE, TIME, OPEN, HIGH, LOW, CLOSE, VOL; #6 — DATE, TIME, LAST, VOL, ID, OPER).
                 ('at', '1'), # at — добавлять заголовок в файл (0 — нет, 1 — да)
-                # ('fsp', '1'), - заполнять периоды без сделок
+                # ('fsp', '1'), #- заполнять периоды без сделок
             ]
             headers = {
                 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/77.0.3865.90 Chrome/77.0.3865.90 Safari/537.36',
@@ -114,13 +114,13 @@ class JobsSpider(Spider):
                           meta={'market': instrument['market'],
                                 'code': instrument['code'],
                                 'name': instrument['name'],
-                                'decp': instrument['decp'],
+                                'decp': instrument.get('decp', None),
                                 'child': instrument['child'],
                                 'id': instrument['id'], })
 
     def parse(self, response):
         self.counter = self.counter + 1
-        logger.debug(self.counter)
+        logger.debug(`self.counter` + ' ' + response.meta['code'])
 
         if response.status == 403:
             logger.error('403: ' + response.url + ' : ' +
